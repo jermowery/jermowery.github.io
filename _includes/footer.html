@@ -16,13 +16,17 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github"></i> GitHub
+            </a>
           </li>
           {% endif %}
 
-          {% if site.twitter_username %}
+          {% if site.linkedin_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+              <i class="fa fa-linkedin"></i> LinkedIn
+            </a>
           </li>
           {% endif %}
         </ul>
