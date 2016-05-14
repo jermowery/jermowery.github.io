@@ -7,10 +7,13 @@ permalink: /about/
 Summary
 -------
 
+![Picture of Jeremy Mowery](/images/profile.jpg "Picture of Jeremy Mowery"){:style="float:left;margin-right:5px;margin-top:5px;margin-bottom:5px;"}
 I am Jeremy Mowery, a motivated and hard working Software Engineer dedicated to working well in a
-team to create clean, easily maintained, and well tested code. My experience includes 2 internships
+team to create clean, easily maintained, and well tested code.
+My experience includes 2 internships
 at Google and 3 years of assisting in the administration and instruction of introductory and
-advanced classes for students learning to produce good code for team projects. I have worked
+advanced classes for students learning to produce good code for team projects.
+I have worked
 primarily in Java and JavaScript but can learn new technologies and languages quickly. I graduated
 from the University of Arizona in 2016 with a Bachelor of Science Degree in Computer Science and
 Mathematics (Computer Science emphasis) and will start full time as a Software Engineer at Google
@@ -56,4 +59,4 @@ General Interests
 Documents
 ---------
 
-+ [Resume](https://drive.google.com/file/d/0B-Kx4DjZNEniTWNqZFpNOUFsSU0/view?usp=sharing){:target="_blank"}
++ [Resume](https://drive.google.com/file/d/0B-Kx4DjZNEniNEdmOFJGVGt3UzA/view?usp=sharing){:target="_blank"}
