@@ -17,3 +17,5 @@ linkedin_username: jeremy-mowery-7084b256
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
