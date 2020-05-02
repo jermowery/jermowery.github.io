@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-* 1 lb chicken thigh, cut into 1 inch cubes
+* 1 lb chicken thigh, cut into 1/2-3/4 inch cubes
 * 3 cloves garlic, pressed
 * 1/2 tsp. dried thyme
 * 1 tbsp. olive oil
