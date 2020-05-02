@@ -9,7 +9,7 @@
 * 1/2 tsp. dried thyme
 * 1 tbsp. olive oil
 * 1 onion, diced
-* 2 large carrots, halved lengthwise and finely sliced
+* 2 large carrots, halved lengthwise and sliced
 * 3 celery stalks, chopped (can substitue brocoli)
 * 6 cups vegetable broth + 1 cup water
 * 1 can chickpeas, rinsed and drained
