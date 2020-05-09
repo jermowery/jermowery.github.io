@@ -1,7 +1,5 @@
 # Tzatziki
 
-[Original](https://www.twopeasandtheirpod.com/wprm_print/42397)
-
 ## Ingredients
 
 * 1 cucumber, peeled and grated
