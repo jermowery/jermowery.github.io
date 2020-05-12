@@ -1,6 +1,6 @@
 # Fondue (for 2 people)
 
-Stolen by Laura from a recent uncle
+Stolen by Laura from Peter
 
 [Original](images/fondue.jpg)
 
@@ -15,6 +15,7 @@ Stolen by Laura from a recent uncle
 * Most fondue pots can only handle 1200g of cheese mixture
 * Best served with 1/2 small baguette per person
   * Cut less than you think you will need to prevent left overs from going stale because the cheese is very filling
+* Cheese can be substituted, just ask the cheese person at the store for a substitute for a fondue
 
 ## Ingredients
 
@@ -24,7 +25,7 @@ Stolen by Laura from a recent uncle
 * 4 cloves garlic
 * 1/2 large onion
 * Chili flakes and/or cayenne
-* 1 tsp cornstarch (up to 1 tsp more to adjust consistency)
+* 1 tsp cornstarch (up to 3 tsp more to adjust consistency)
 * A little lemon juice
 
 ## Instructions
