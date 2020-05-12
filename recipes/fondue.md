@@ -22,7 +22,7 @@ Stolen by Laura from a recent uncle
 * 4 cloves garlic
 * 1/2 large onion
 * Chili flakes
-* 2 tsp cornstarch
+* 1 tsp cornstarch (up to 1 tsp more to adjust consistency)
 * A little lemon juice
 
 ## Instructions
