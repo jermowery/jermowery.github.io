@@ -25,6 +25,16 @@
     <header class="page-header" role="banner" style="padding: unset;">
         <a href="/recipes/" class="btn" style="margin-top: 20px;">Recipes Home</a>
     </header>
+    {% assign current_url = page.url %}
+    {% assign current_file_name = current_url | split: "/" | last %}
+    {% assign current_recipe = site.recipes | where: "file_name", current_file_name | first %}
+    {% if current_recipe.tags %}
+    <div>
+        {% for tag in tags %}
+        <span class="btn">{{ tag | capitalize }}</span>
+        {% endfor %}
+    </div>
+    {% endif %}
 
     <main id="content" class="main-content" role="main">
         {{ content }}
