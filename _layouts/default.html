@@ -24,48 +24,7 @@
 <body>
     <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        {%- assign url_parts = page.url | split: '/' -%}
-        {%- capture loop_max -%}{{ url_parts.size | minus: 1 }}{%- endcapture -%}
-        {%- assign j = loop_max | plus: 0 -%}
-        {%- assign bc_path = "/" -%}
-        {%- comment -%}
-        the result of following assignment (if successful) will be an array,
-        so bc_page[0] is used to get the page corresponding to the path
-        {%- endcomment -%}
-        {%- assign bc_page = site.pages | where: "url", bc_path -%}
-        <div class="card-header">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb card-header lightcthru">
-                    <li class="breadcrumb-item">
-                        <a href="{{ bc_path | relative_url }}" class="btn">
-                            {{ bc_page[0].breadcrumb }}
-                        </a>
-                    </li>
-                    {%- for i in (1..loop_max) -%}
-                    {%- capture bc_path -%}{{bc_path}}{{url_parts[i]}}{%- endcapture -%}
-                    {%- unless bc_path contains ".html" -%}
-                    {%- capture bc_path -%}{{bc_path}}/{%- endcapture -%}
-                    {%- endunless -%}
-                    {%- comment -%}
-                    the result of following assignment (if successful) will be an array,
-                    so bc_page[0] is used to get the page corresponding to the path
-                    {%- endcomment -%}
-                    {%- assign bc_page = site.pages | where: "url", bc_path -%}
-                    {% if bc_page and i < j %}
-                    <li class="breadcrumb-item">
-                        <a href="{{ bc_path | relative_url }}" class="btn">
-                            {{ bc_page[0].breadcrumb }}
-                        </a>
-                    </li>
-                    {% elsif bc_page and i == j %}
-                    <li class="breadcrumb-item active" class="btn">
-                        {{ bc_page[0].breadcrumb }}
-                    </li>
-                    {% endif %}
-                    {%- endfor -%}
-                </ol>
-            </nav>
-        </div>
+        <a href="/recipes/" class="btn">Recipes</a>
     </header>
 
     <main id="content" class="main-content" role="main">
