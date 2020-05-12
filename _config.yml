@@ -2,3 +2,10 @@ theme: jekyll-theme-cayman
 title: mowery.dev
 description: Pretty much just recipes
 google_analytics: UA-165281829-1
+recipes:
+  - {
+    name: "cheese_bread",
+    tags:
+      - "snack"
+  }
+
