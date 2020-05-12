@@ -1,6 +1,6 @@
 # Chickpea Orzo Soup
 
-[Original](https://www.delishknowledge.com/vegan-lemon-chickpea-orzo-soup/print/20864/)
+[Original](https://www.delishknowledge.com/vegan-lemon-chickpea-orzo-soup/print/20864/){:target="_blank"}
 
 ## Ingredients
 

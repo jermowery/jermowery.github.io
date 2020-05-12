@@ -1,6 +1,6 @@
 # Smashed Potatoes
 
-[Original](https://www.bonappetit.com/recipe/crispy-smashed-potatoes-with-walnut-dressing)
+[Original](https://www.bonappetit.com/recipe/crispy-smashed-potatoes-with-walnut-dressing){:target="_blank"}
 
 ## Ingredients
 

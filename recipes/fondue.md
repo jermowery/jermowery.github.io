@@ -2,7 +2,7 @@
 
 Stolen by Laura from Peter
 
-[Original](images/fondue.jpg)
+[Original](images/fondue.jpg){:target="_blank"}
 
 ## Equipment
 

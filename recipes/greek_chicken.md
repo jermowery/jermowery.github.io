@@ -1,6 +1,6 @@
 # Greek Chicken
 
-[Original](https://www.twopeasandtheirpod.com/wprm_print/42397)
+[Original](https://www.twopeasandtheirpod.com/wprm_print/42397){:target="_blank"}
 
 ## Ingredients
 
