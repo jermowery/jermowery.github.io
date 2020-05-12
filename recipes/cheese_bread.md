@@ -6,12 +6,16 @@ Stolen by Laura from Lesser Regina
 
 * Mini Muffin tins
 
+## Notes
+
+* When using a shitty blender make 2/3
+
 ## Ingredients
 
 * 3 eggs
 * 1 cup oil (bland)
 * 1 cup milk
-* 1/2 teaspoon
+* 1/2 tablespoon
 * 1.5 cups parmesan cheese
 * 3 cups tapioca flour
 
