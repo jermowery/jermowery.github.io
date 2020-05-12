@@ -9,3 +9,4 @@ All of our recipes as we have altered them over time.
 ## [Tzatziki](tzatziki.md)
 ## [Greek chicken](greek_chicken.md)
 ## [Greek salad](greek_salad.md)
+## [Fondue](fondue.md)
