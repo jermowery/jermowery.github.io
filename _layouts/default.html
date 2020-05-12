@@ -30,7 +30,7 @@
     {% assign current_recipe = site.recipes | where: "file_name", current_file_name | first %}
     {% if current_recipe.tags %}
     <div>
-        {% for tag in tags %}
+        {% for tag in current_recipe.tags %}
         <span class="btn">{{ tag | capitalize }}</span>
         {% endfor %}
     </div>
