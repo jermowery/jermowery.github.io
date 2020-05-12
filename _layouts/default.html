@@ -24,18 +24,18 @@
 <body>
     <header class="page-header" role="banner" style="padding: unset;">
         <a href="/recipes/" class="btn" style="margin-top: 20px;">Recipes Home</a>
-        {% assign current_url = page.url %}
-        {% assign current_file_name = current_url | split: "/" | last %}
-        {% assign current_recipe = site.recipes | where: "file_name", current_file_name | first %}
-        {% if current_recipe.tags %}
-        {% current_recipe %}
-        <div>
-            {% for tag in current_recipe.tags %}
-            <span class="btn">{{ tag | capitalize }}</span>
-            {% endfor %}
-        </div>
-        {% endif %}
     </header>
+    {% assign current_url = page.url %}
+    {% assign current_file_name = current_url | split: "/" | last %}
+    {% assign current_recipe = site.recipes | where: "file_name", current_file_name | first %}
+    {% if current_recipe.tags %}
+    <div>
+        Tags: 
+        {% for tag in current_recipe.tags %}
+        <span style="border: 1px black; padding: 8px; margin-right: 8px">{{ tag | capitalize }}</span>
+        {% endfor %}
+    </div>
+    {% endif %}
 
     <main id="content" class="main-content" role="main">
         {{ content }}
