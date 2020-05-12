@@ -4,42 +4,50 @@ description: Pretty much just recipes
 google_analytics: UA-165281829-1
 recipes: 
   - 
-    name: cheese_bread
+    name: cheese bread
+    file_name: cheese_bread.md
     tags: 
       - snack
   - 
-    name: chickpea_orzo_soup
+    name: chickpea orzo soup
+    file_name: chickpea_orzo_soup.md
     tags: 
       - soup
       - dinner
   - 
-    name: cinnamon_rolls
+    name: cinnamon rolls
+    file_name: cinnamon_rolls.md
     tags: 
       - dessert
   - 
     name: fondue
+    file_name: fondue.md
     tags: 
       - dinner
   - 
-    name: greek_chicken
-    tags: 
-      - unfinished
-      - lunch
-      - dinner
-  - 
-    name: greek_salad
+    name: greek chicken
+    file_name: greek_chicken.md
     tags: 
       - unfinished
       - lunch
       - dinner
   - 
-    name: smashed_potatoes
+    name: greek salad
+    file_name: greek_salad.md
+    tags: 
+      - unfinished
+      - lunch
+      - dinner
+  - 
+    name: smashed potatoes
+    file_name: smashed_potatoes.md
     tags: 
       - lunch
       - dinner
       - unfinished
   - 
     name: tzatziki
+    file_name: tzatziki.md
     tags: 
       - lunch
       - dinner
@@ -47,6 +55,7 @@ recipes:
       - unfinished
   - 
     name: waffles
+    file_name: waffles.md
     tags: 
       - breakfast
 
