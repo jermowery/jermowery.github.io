@@ -2,52 +2,52 @@ theme: jekyll-theme-cayman
 title: mowery.dev
 description: Pretty much just recipes
 google_analytics: UA-165281829-1
-recipes:
+recipes: 
   - 
     name: cheese_bread
     tags: 
       - snack
-  - chickpea orzo soup:
-      name: chickpea_orzo_soup
-      tags:
-        - soup
-        - dinner
-  - cinnamon rolls:
-      name: cinnamon_rolls
-      tags:
-        - dessert
-  - fondue:
-      name: fondue
-      tags:
-        - dinner
-  - greek chicken:
-      name: greek_chicken
-      tags:
-        - unfinished
-        - lunch
-        - dinner
-    greek salad:
-      name: greek_salad
-      tags:
-        - unfinished
-        - lunch
-        - dinner
-    smashed potatoes:
-      name: smashed_potatoes
-      tags:
-        - lunch
-        - dinner
-        - unfinished
-    tzatziki:
-      name: tzatziki
-      tags:
-        - lunch
-        - dinner
-        - sauce
-        - unfinished
-    waffles:
-      name: waffles
-      tags:
-        - breakfast
+  - 
+    name: chickpea_orzo_soup
+    tags: 
+      - soup
+      - dinner
+  - 
+    name: cinnamon_rolls
+    tags: 
+      - dessert
+  - 
+    name: fondue
+    tags: 
+      - dinner
+  - 
+    name: greek_chicken
+    tags: 
+      - unfinished
+      - lunch
+      - dinner
+  - 
+    name: greek_salad
+    tags: 
+      - unfinished
+      - lunch
+      - dinner
+  - 
+    name: smashed_potatoes
+    tags: 
+      - lunch
+      - dinner
+      - unfinished
+  - 
+    name: tzatziki
+    tags: 
+      - lunch
+      - dinner
+      - sauce
+      - unfinished
+  - 
+    name: waffles
+    tags: 
+      - breakfast
 
 
