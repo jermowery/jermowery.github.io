@@ -4,7 +4,7 @@ description: Pretty much just recipes
 google_analytics: UA-165281829-1
 recipes:
   - cheesebread:
-      name: "cheese_bread",
+      name: cheese_bread,
       tags:
-        - "snack"
+        - snack
 
