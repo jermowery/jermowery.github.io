@@ -21,4 +21,4 @@ Stolen by Laura from Lesser Regina
 2. Mix liquid ingredients in blender
 3. Mix in dry ingredients
 4. Fill 2/3 of each mini muffin tin with batter
-5. Bake for 25-30 minutes
+5. Bake for 25-30 minutes at 350 degrees
