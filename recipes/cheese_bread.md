@@ -1,4 +1,3 @@
-{{ site.recipes }}
 # Cheese bread
 
 Stolen by Laura from Lesser Regina

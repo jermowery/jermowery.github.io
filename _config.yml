@@ -7,4 +7,47 @@ recipes:
       name: cheese_bread
       tags:
         - snack
+  - chickpea orzo soup:
+      name: chickpea_orzo_soup
+      tags:
+        - soup
+        - dinner
+  - cinnamon rolls:
+      name: cinnamon_rolls
+      tags:
+        - dessert
+  - fondue:
+      name: fondue
+      tags:
+        - dinner
+  - greek chicken:
+      name: greek_chicken
+      tags:
+        - unfinished
+        - lunch
+        - dinner
+    greek salad:
+      name: greek_salad
+      tags:
+        - unfinished
+        - lunch
+        - dinner
+    smashed potatoes:
+      name: smashed_potatoes
+      tags:
+        - lunch
+        - dinner
+        - unfinished
+    tzatziki:
+      name: tzatziki
+      tags:
+        - lunch
+        - dinner
+        - sauce
+        - unfinished
+    waffles:
+      name: waffles
+      tags:
+        - breakfast
+
 
