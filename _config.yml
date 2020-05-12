@@ -5,49 +5,49 @@ google_analytics: UA-165281829-1
 recipes: 
   - 
     name: cheese bread
-    file_name: cheese_bread.md
+    file_name: cheese_bread.html
     tags: 
       - snack
   - 
     name: chickpea orzo soup
-    file_name: chickpea_orzo_soup.md
+    file_name: chickpea_orzo_soup.html
     tags: 
       - soup
       - dinner
   - 
     name: cinnamon rolls
-    file_name: cinnamon_rolls.md
+    file_name: cinnamon_rolls.html
     tags: 
       - dessert
   - 
     name: fondue
-    file_name: fondue.md
+    file_name: fondue.html
     tags: 
       - dinner
   - 
     name: greek chicken
-    file_name: greek_chicken.md
+    file_name: greek_chicken.html
     tags: 
       - unfinished
       - lunch
       - dinner
   - 
     name: greek salad
-    file_name: greek_salad.md
+    file_name: greek_salad.html
     tags: 
       - unfinished
       - lunch
       - dinner
   - 
     name: smashed potatoes
-    file_name: smashed_potatoes.md
+    file_name: smashed_potatoes.html
     tags: 
       - lunch
       - dinner
       - unfinished
   - 
     name: tzatziki
-    file_name: tzatziki.md
+    file_name: tzatziki.html
     tags: 
       - lunch
       - dinner
@@ -55,7 +55,7 @@ recipes:
       - unfinished
   - 
     name: waffles
-    file_name: waffles.md
+    file_name: waffles.html
     tags: 
       - breakfast
 
