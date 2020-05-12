@@ -37,3 +37,7 @@ Stolen by Laura from Peter
 5. Once the sauce is smooth and thin, dissolve 1 tsp cornstarch in sparkling wine and then mix it in, then wait a minute to see if it's thick enough before potentially doing it again.
     * Careful: with too little starch, the cheese mixture is too liquid, but   if you add too much it gets doughy and tasteless
 6. "As soon as the consistency is optimal" (thanks uncle) move it from the stove top to the fondue pot
+
+## Pictures
+
+![Fondue](images/fondue_2.jpg)
