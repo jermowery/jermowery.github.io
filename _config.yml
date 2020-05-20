@@ -58,5 +58,10 @@ recipes:
     file_name: waffles.html
     tags: 
       - breakfast
+  -
+    name: 'carrot cake'
+    file_name: 'carrot_cake.html'
+    tags:
+      - dessert
 
 
