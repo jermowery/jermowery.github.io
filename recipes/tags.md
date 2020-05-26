@@ -6,7 +6,7 @@
 {% for listOfTags in listOfTagLists %}
     {% assign tags = tags | concat: listOfTags %}
 {% endfor %}
-{% assign tags = tags | uniq %}
+{% assign tags = tags | uniq | sort %}
 {% for tag in tags %}
 ## {{ tag | capitalize }}
 {% for recipe in recipes %}
