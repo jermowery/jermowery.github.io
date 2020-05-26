@@ -59,8 +59,8 @@ recipes:
     tags: 
       - breakfast
   -
-    name: 'carrot cake'
-    file_name: 'carrot_cake.html'
+    name: carrot cake
+    file_name: carrot_cake.html
     tags:
       - dessert
 
