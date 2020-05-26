@@ -9,9 +9,9 @@
 {% assign tags = tags | uniq %}
 {% for tag in tags %}
 ## {{ tag | capitalize }}
-    {% for recipe in recipes %}
-        {% if recipe.tags contains tag %}
-            * [{{ recipe.name | capitalize }}]({{ recipe.file_name }})
-        {% endif %}
-    {% endfor %}
+{% for recipe in recipes %}
+  {% if recipe.tags contains tag %}
+  * [{{ recipe.name | capitalize }}]({{ recipe.file_name }})
+  {% endif %}
+{% endfor %}
 {% endfor %}
