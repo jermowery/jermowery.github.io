@@ -1,4 +1,5 @@
 # Recipes by tags
+[All recipes](index.html)
 
 {% assign recipes = site.recipes | sort: "name" %}
 {% assign listOfTagLists = recipes | map: "tags" %}
