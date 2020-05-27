@@ -63,5 +63,10 @@ recipes:
     file_name: carrot_cake.html
     tags:
       - dessert
+  -
+    name: cobbler
+    file_name: cobbler.html
+    tags:
+      - dessert
 
 
