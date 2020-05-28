@@ -34,7 +34,6 @@ recipes:
     name: greek salad
     file_name: greek_salad.html
     tags: 
-      - unfinished
       - lunch
       - dinner
   - 
@@ -73,5 +72,10 @@ recipes:
     tags:
       - dinner
       - lunch
-
+  - 
+    name: Pasta primavera
+    file_name: pasta_prima.html
+    tags:
+      - dinner
+      - lunch
 
