@@ -68,5 +68,11 @@ recipes:
     file_name: cobbler.html
     tags:
       - dessert
+  -
+    name: rice
+    file_name: rice.html
+    tags:
+      - dinner
+      - lunch
 
 
