@@ -28,7 +28,6 @@ recipes:
     name: greek chicken
     file_name: greek_chicken.html
     tags: 
-      - unfinished
       - lunch
       - dinner
   - 
