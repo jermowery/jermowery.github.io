@@ -69,7 +69,7 @@ recipes:
     tags:
       - dessert
   -
-    name: rice
+    name: the one true rice
     file_name: rice.html
     tags:
       - dinner
