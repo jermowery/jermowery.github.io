@@ -78,4 +78,11 @@ recipes:
     tags:
       - dinner
       - lunch
+  - 
+    name: Quibe (Kibbeh)
+    file_name: quibe.html
+    tags:
+      - dinner
+      - lunch
+      - unfinished
 
