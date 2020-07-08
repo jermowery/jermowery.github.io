@@ -1,7 +1,5 @@
 # Quibe (Kibbeh)
 
-## Notes
-
 ## Ingredients
 
 * 2 lbs bulgar wheat (~5.5 cups)
