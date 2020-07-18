@@ -2,6 +2,13 @@ theme: jekyll-theme-cayman
 title: mowery.dev
 description: Pretty much just recipes
 google_analytics: UA-165281829-1
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
 recipes: 
   - 
     name: cheese bread

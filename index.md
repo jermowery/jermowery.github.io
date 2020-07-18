@@ -1,3 +1,7 @@
+---
+title: "Home"
+---
+
 # mowery.dev
 
 Nothing much to see here.
