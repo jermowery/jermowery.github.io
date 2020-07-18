@@ -9,12 +9,11 @@ Originally stolen from [The Mustard Seed](https://www.spokesman.com/stories/2005
 ## Ingredients
 
 * 1 cup vegetable oil
-* 2 1/2 tablespoons gingerroot, minced and peeled
+* 2 1/2 Tbsp gingerroot, minced and peeled
 * 1/2 rib celery, chopped
-* 1/2 teaspoon sugar
+* 1/2 tsp sugar
 * 1/4 cup sesame seeds, toasted
-* 1/8 teaspoon celery seed
-* 1/2 teaspoon ketchup
+* 1/8 tsp celery seed (optional)
 * Pinch white pepper
 * 1/4 cup chopped onion
 * 1/3 cup soy sauce
