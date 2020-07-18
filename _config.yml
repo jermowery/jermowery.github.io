@@ -104,5 +104,14 @@ recipes:
     tags:
       - dinner
       - lunch
-
-
+  -
+    name: "Ma Johnson's Blueberry Pie"
+    file_name: blueberry_pie.html
+    tags:
+      - dessert
+  -
+    name: "Grandma Lonergan's Banana Bread"
+    file_name: banana_bread.html
+    tags:
+      - breakfast
+      - dessert
