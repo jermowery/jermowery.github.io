@@ -115,3 +115,7 @@ recipes:
     tags:
       - breakfast
       - dessert
+  - name: "Lime Mousse"
+    file_name: lime_mousse.html
+    tags:
+      - dessert
