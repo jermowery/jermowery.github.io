@@ -6,4 +6,4 @@ title: "Home"
 
 Nothing much to see here.
 
-[Recipes](/recipes)
+[Recipes](/recipes/)

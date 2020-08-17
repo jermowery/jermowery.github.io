@@ -12,6 +12,12 @@
         gtag('config', '{{ site.google_analytics }}');
     </script>
     {% endif %}
+    <script>
+        // register ServiceWorker, remember to use absolute path!
+        if (navigator.serviceWorker) {
+          navigator.serviceWorker.register('/sw.js', {scope: '/'})
+        }
+    </script>
     <meta charset="UTF-8">
 
     {% seo %}
@@ -19,7 +25,8 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="manifest" href="/manifest.webmanifest">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="apple-touch-icon" href="/maskable_icon_192.png">
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
 <body>
