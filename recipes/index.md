@@ -1,5 +1,6 @@
 ---
 title: Recipes
+description: A list of recipes
 ---
 # Recipes
 [Recipes by tags](tags.html)
