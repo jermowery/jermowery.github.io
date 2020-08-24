@@ -1,5 +1,7 @@
 ---
 title: "Ma' Johnson's Fresh Blueberry Pie"
+tags:
+      - dessert
 ---
 
 # Ma' Johnson's Fresh Blueberry Pie

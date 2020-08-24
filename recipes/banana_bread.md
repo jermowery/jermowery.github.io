@@ -7,6 +7,8 @@ tags: [
     "recipe",
     "bread",
     "family",
+    "breakfast",
+    "dessert",
 ]
 categories: [
     "recipes",
