@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: mowery.dev
 description: A delicious recipe
 google_analytics: UA-165281829-1
+permalink: /:categories/:title:output_ext
 defaults:
   -
     scope:
