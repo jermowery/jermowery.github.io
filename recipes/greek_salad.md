@@ -5,8 +5,6 @@ tags:
       - dinner
 ---
 
-# Greek Salad
-
 ## Notes
 
 * I have no desire to specify amounts. Let your heart be your guiding key.

@@ -4,8 +4,6 @@ tags:
       - dessert
 ---
 
-# Cobbler
-
 [Original](https://www.tasteslovely.com/triple-berry-crumble-made-with-frozen-fruit/print/5684/){:target="_blank"}
 
 ## Ingredients

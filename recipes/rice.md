@@ -6,8 +6,6 @@ tags:
       - lunch
 ---
 
-# The one true rice
-
 ## Notes
 
 * 1 cup of dry rice is probably 4 person-meals, give or take a person-meal. 

@@ -5,8 +5,6 @@ tags:
       - dessert
 ---
 
-# Cinnamon Rolls
-
 [Original](https://www.twopeasandtheirpod.com/wprm_print/42397){:target="_blank"}
 
 ## Ingredients

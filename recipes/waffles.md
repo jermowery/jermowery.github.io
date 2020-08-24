@@ -3,8 +3,6 @@ title: "Waffles"
 image: "recipes/images/waffles_1.jpg"
 ---
 
-# Waffles
-
 Laura's waffle recipe, stolen from ancestors.
 
 The portions here are for 2 people to eat a large breakfast.

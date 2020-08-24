@@ -5,8 +5,6 @@ tags:
       - snack
 ---
 
-# Cheese bread
-
 Stolen by Laura from Lesser Regina
 
 ## Equipment

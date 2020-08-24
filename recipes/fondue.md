@@ -5,8 +5,6 @@ tags:
   - dinner
 ---
 
-# Fondue (for 2 people)
-
 Stolen by Laura from Peter
 
 [Original](images/fondue.jpg){:target="_blank"}

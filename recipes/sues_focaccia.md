@@ -5,8 +5,6 @@ tags:
       - lunch
 ---
 
-# Sue's Focaccia
-
 Copied directly from Sue
 
 ## Notes

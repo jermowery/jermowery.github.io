@@ -1,12 +1,10 @@
 ---
-title: Plum Cake
+title: Plum Cake (Pflaumenkuchen)
 image: "recipes/images/plum_cake_1.jpg"
 tags:
       - dessert
       - breakfast
 ---
-
-# Plum Cake (Pflaumenkuchen)
 
 ## Notes:
 

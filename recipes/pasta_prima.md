@@ -5,8 +5,6 @@ tags:
       - lunch
 ---
 
-# Pasta primavera
-
 ## Notes
 
 * This is my absolute favorite recipe and a staple of my diet. I've made it my own over the years; feel free to do the same!

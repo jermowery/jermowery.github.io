@@ -5,8 +5,6 @@ tags:
       - lunch
 ---
 
-# Osaka Sauce
-
 Originally stolen from [The Mustard Seed](https://www.spokesman.com/stories/2005/mar/30/shrimp-osaka-needs-ginger-dressing/)
 
 ## Notes

@@ -5,8 +5,6 @@ tags:
       - dinner
 ---
 
-# Greek chicken
-
 ## Notes
 
 * This recipe calls for chicken breast, but it can also be made with boneless skinless chicken thigh. Cooking the chicken breast can be a little tricky, and will end up a bit dry if you do it wrong. Chicken thigh is more forgiving.

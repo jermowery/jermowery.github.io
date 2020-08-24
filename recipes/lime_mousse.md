@@ -10,8 +10,6 @@ categories: [
     ]
 ---
 
-# Lime Mousse
-
 Originally stolen from [MOUSSE DE LIMÃO RÁPIDO](https://www.tudogostoso.com.br/receita/155693-mousse-de-limao-rapido.html){:target="_blank"}
 
 ## Ingredients
