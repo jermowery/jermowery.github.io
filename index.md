@@ -2,6 +2,6 @@
 title: "mowery.dev"
 ---
 
-Nothing much to see here.
+Nothing much to see here
 
 [Recipes](/recipes/)
