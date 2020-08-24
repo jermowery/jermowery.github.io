@@ -1,5 +1,6 @@
 ---
 title: "Recipes by tags"
+showInRecipesList: false
 ---
 [All recipes](index.html)
 
