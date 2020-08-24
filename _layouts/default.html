@@ -41,6 +41,9 @@
         {% if page.author %}
             <p>By {{ page.author }}</p>
         {% endif %}
+        {% if page.date %}
+            <p>Published {{ page.date | date: "%D" }}</p>
+        {% endif %}
         {{ content }}
 
         <footer class="site-footer">

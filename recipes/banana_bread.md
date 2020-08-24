@@ -14,8 +14,6 @@ categories: [
     ]
 ---
 
-# Grandma Lonergan's Banana Bread
-
 See original at [matt9j.net/recipes/banana-bread](https://matt9j.net/recipes/banana-bread)
 
 True origins unknown, but refined over many generations, this recipe
