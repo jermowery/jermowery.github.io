@@ -1,7 +1,5 @@
-var APP_PREFIX = 'ApplicationName_'     // Identifier for this app (this needs to be consistent across every cache update)
-var VERSION = 'version_02'              // Version of the off-line cache (change this value everytime you want to update cache)
-var CACHE_NAME = APP_PREFIX + VERSION
-var URLS = [                            
+const APP_PREFIX = 'Recipes_'     // Identifier for this app (this needs to be consistent across every cache update)
+const URLS = [                            
   '/',                     
   '/index.html',
   '/recipes',
@@ -13,6 +11,8 @@ var URLS = [
   '/assets/css/style.css',
   '/favicon.ico',
 ]
+/** @type string */
+let cacheName;
 
 // Respond with cached resources
 self.addEventListener('fetch', function (e) {
@@ -32,8 +32,10 @@ self.addEventListener('fetch', function (e) {
 
 // Cache resources
 self.addEventListener('install', function (e) {
+  const version = new URL(location).searchParams.get('version') || "local";
+  cacheName = APP_PREFIX + version;
   e.waitUntil(
-    caches.open(CACHE_NAME).then(function (cache) {
+    caches.open(cacheName).then(function (cache) {
       return cache.addAll(URLS)
     })
   )
@@ -49,7 +51,7 @@ self.addEventListener('activate', function (e) {
         return key.indexOf(APP_PREFIX)
       })
       // add current cache name to white list
-      cacheWhitelist.push(CACHE_NAME)
+      cacheWhitelist.push(cacheName)
 
       return Promise.all(keyList.map(function (key, i) {
         if (cacheWhitelist.indexOf(key) === -1) {

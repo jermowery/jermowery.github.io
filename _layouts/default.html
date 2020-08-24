@@ -15,7 +15,7 @@
     <script>
         // register ServiceWorker, remember to use absolute path!
         if (navigator.serviceWorker) {
-          navigator.serviceWorker.register('/sw.js', {scope: '/'})
+          navigator.serviceWorker.register('/sw.js?version={{site.github.build_revision}}', {scope: '/'})
         }
     </script>
     <meta charset="UTF-8">
