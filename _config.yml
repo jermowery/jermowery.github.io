@@ -105,21 +105,21 @@ recipes:
       - dinner
       - lunch
   -
-    name: "Ma Johnson's Blueberry Pie"
+    name: Ma Johnson's Blueberry Pie
     file_name: blueberry_pie.html
     tags:
       - dessert
   -
-    name: "Grandma Lonergan's Banana Bread"
+    name: Grandma Lonergan's Banana Bread
     file_name: banana_bread.html
     tags:
       - breakfast
       - dessert
-  - name: "Lime Mousse"
+  - name: Lime Mousse
     file_name: lime_mousse.html
     tags:
       - dessert
-  - name: "Plum Pie"
+  - name: Plum Pie
     file_name: plum_pie.html
     tags:
       - dessert
