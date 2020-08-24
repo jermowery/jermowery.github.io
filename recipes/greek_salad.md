@@ -1,3 +1,10 @@
+---
+title: "Greek salad"
+tags: 
+      - lunch
+      - dinner
+---
+
 # Greek Salad
 
 ## Notes

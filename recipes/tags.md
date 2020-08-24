@@ -1,9 +1,11 @@
-# Recipes by tags
+---
+title: "Recipes by tags"
+---
 [All recipes](index.html)
 
 {% assign recipes = site.recipes | sort_natural: "name" %}
 {% assign listOfTagLists = recipes | map: "tags" %}
-{% assign tags = [] %}
+{% assign tags = '' | split: '' %}
 {% for listOfTags in listOfTagLists %}
     {% assign tags = tags | concat: listOfTags %}
 {% endfor %}

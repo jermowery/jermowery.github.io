@@ -8,6 +8,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "recipes/images"
+    values:
+      image: true
 
 recipes: 
   - 

@@ -1,3 +1,11 @@
+---
+title: The one true rice
+description: Rice but the only correct way to make it
+tags:
+      - dinner
+      - lunch
+---
+
 # The one true rice
 
 ## Notes

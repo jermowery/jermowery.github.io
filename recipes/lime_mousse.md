@@ -3,9 +3,8 @@ title: "Lime Mousse"
 date: 2020-08-05
 draft: false
 description: "Mousse"
-tags: [
-    "recipe",
-]
+tags:
+    - dessert
 categories: [
     "recipes",
     ]

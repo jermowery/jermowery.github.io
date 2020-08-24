@@ -1,5 +1,8 @@
 ---
+title: "Cinnamon Rolls"
 image: "recipes/images/cr_2.jpg"
+tags: 
+      - dessert
 ---
 
 # Cinnamon Rolls

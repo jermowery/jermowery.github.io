@@ -1,3 +1,10 @@
+---
+title: Quibe (Kibbeh)
+tags:
+      - dinner
+      - lunch
+---
+
 # Quibe (Kibbeh)
 
 ## Ingredients

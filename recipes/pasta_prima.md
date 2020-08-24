@@ -1,3 +1,10 @@
+---
+title: "Pasta primavera"
+tags:
+      - dinner
+      - lunch
+---
+
 # Pasta primavera
 
 ## Notes

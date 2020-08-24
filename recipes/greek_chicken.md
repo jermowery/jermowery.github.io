@@ -1,3 +1,10 @@
+---
+title: "Greek chicken"
+tags: 
+      - lunch
+      - dinner
+---
+
 # Greek chicken
 
 ## Notes

@@ -1,3 +1,11 @@
+---
+title: Smashed Potatoes
+tags: 
+      - lunch
+      - dinner
+      - unfinished
+---
+
 # Smashed Potatoes
 
 [Original](https://www.bonappetit.com/recipe/crispy-smashed-potatoes-with-walnut-dressing){:target="_blank"}
@@ -24,10 +32,10 @@ TODO(laura): Make this recipe reasonable
 
 TODO(laura): Make this recipe reasonable
 
-* Place a rack in center of oven; preheat to 450°. Place potatoes in a large pot and cover with water. Add 1 cup salt and bring to a boil. Immediately reduce heat to medium-low, bring to a simmer, and cook until potatoes are just cooked through and pierced easily with a fork, about 15 minutes (time will vary depending on the size of your potatoes; be careful not to overcook as they’ll fall apart when smashed). Drain and transfer potatoes to a rimmed baking sheet. Let cool slightly.
+1. Place a rack in center of oven; preheat to 450°. Place potatoes in a large pot and cover with water. Add 1 cup salt and bring to a boil. Immediately reduce heat to medium-low, bring to a simmer, and cook until potatoes are just cooked through and pierced easily with a fork, about 15 minutes (time will vary depending on the size of your potatoes; be careful not to overcook as they’ll fall apart when smashed). Drain and transfer potatoes to a rimmed baking sheet. Let cool slightly.
 
-* Place another rimmed baking sheet on top, then push down firmly to smash potatoes (alternately, use the bottom of a mug or measuring cup to smash each one individually). Drizzle ⅓ cup oil over potatoes, then toss to coat; season lightly with salt and black pepper. Roast potatoes until crispy and golden brown, 35–40 minutes.
+2. Place another rimmed baking sheet on top, then push down firmly to smash potatoes (alternately, use the bottom of a mug or measuring cup to smash each one individually). Drizzle ⅓ cup oil over potatoes, then toss to coat; season lightly with salt and black pepper. Roast potatoes until crispy and golden brown, 35–40 minutes.
 
-* Meanwhile, cook walnuts, anchovies, and remaining ⅓ cup oil in a small saucepan over medium-low heat, stirring occasionally, until anchovies are disintegrated and walnuts are golden brown, 6–8 minutes. Transfer to a small bowl, finely grate garlic over, and toss to combine. Mix in raisins and Aleppo-style pepper; season with salt.
+3. Meanwhile, cook walnuts, anchovies, and remaining ⅓ cup oil in a small saucepan over medium-low heat, stirring occasionally, until anchovies are disintegrated and walnuts are golden brown, 6–8 minutes. Transfer to a small bowl, finely grate garlic over, and toss to combine. Mix in raisins and Aleppo-style pepper; season with salt.
 
-* Spread sour cream on a large plate. Top with potatoes and spoon walnut sauce over. Scatter herbs over and serve with lemon wedges alongside.
+4. Spread sour cream on a large plate. Top with potatoes and spoon walnut sauce over. Scatter herbs over and serve with lemon wedges alongside.
