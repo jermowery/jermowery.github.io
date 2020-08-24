@@ -1,3 +1,7 @@
+---
+image: "recipes/images/plum_cake_1.jpg"
+---
+
 # Plum Cake (Pflaumenkuchen)
 
 ## Notes:
@@ -44,4 +48,4 @@
 1. Bake for 30-45 minutes, until crust is golden and/or plums begin to bubble.
 1. Sprinkle a bit of sugar over the plums.
 
-![Fondue](images/plum_pie_1.jpg)
+![Fondue](images/plum_cake_1.jpg)
