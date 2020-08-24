@@ -119,3 +119,8 @@ recipes:
     file_name: lime_mousse.html
     tags:
       - dessert
+  - name: "Plum Pie"
+    file_name: plum_pie.html
+    tags:
+      - dessert
+      - breakfast
