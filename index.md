@@ -1,8 +1,6 @@
 ---
-title: "Home"
+title: "mowery.dev"
 ---
-
-# mowery.dev
 
 Nothing much to see here.
 
