@@ -3,12 +3,17 @@ title: mowery.dev
 description: A delicious recipe
 google_analytics: UA-165281829-1
 permalink: /:categories/:title:output_ext
+page_excerpts: true
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "recipes"
+    values:
+      type: pages
   - scope:
       path: "recipes/images"
     values:

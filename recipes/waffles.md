@@ -1,4 +1,5 @@
 ---
+title: "Waffles"
 image: "recipes/images/waffles_1.jpg"
 ---
 

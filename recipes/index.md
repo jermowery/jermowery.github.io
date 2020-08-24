@@ -7,7 +7,9 @@ description: A list of recipes
 
 All of our recipes as we have altered them over time.
 
-{% assign recipes = site.recipes | sort_natural: "name" %}
+{% assign recipes = site.pages | sort_natural: "title" %}
 {% for recipe in recipes %}
-  * [{{ recipe.name | capitalize }}]({{ recipe.file_name }})
+  {% if recipe.title %}
+  * [{{ recipe.title | capitalize }}]({{ recipe.url }})
+  {% endif %}
 {% endfor %}
