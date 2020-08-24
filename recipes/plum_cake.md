@@ -29,7 +29,7 @@
 
 1. Preheat oven to 375*F.
 1. Grease pie tin with the butter stick.
-1. Process all the wet ingredients in a food processor.
+1. Process all the wet ingredients (including sugar) in a food processor.
 1. Mix all the dry ingredients in a bowl.
 1. Add the wet ingredients to the dry ingredients and stir them together to create a dough.
 1. Press the dough into the pie tin; optionally stick it in the fridge to chill.
