@@ -1,4 +1,9 @@
-# Plum Cake
+# Plum Cake (Pflaumenkuchen)
+
+## Notes:
+
+* For historical reasons this is named "Plum Cake" but it is actually a pie.
+* This is our version of Pflaumenkuchen.
 
 ## Ingredients
 
