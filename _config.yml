@@ -91,7 +91,6 @@ recipes:
     tags:
       - dinner
       - lunch
-      - unfinished
   - 
     name: Sue's Focaccia
     file_name: sues_focaccia.html
