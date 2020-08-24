@@ -1,13 +1,13 @@
 # Recipes by tags
 [All recipes](index.html)
 
-{% assign recipes = site.recipes | sort: "name" %}
+{% assign recipes = site.recipes | sort_natural: "name" %}
 {% assign listOfTagLists = recipes | map: "tags" %}
 {% assign tags = [] %}
 {% for listOfTags in listOfTagLists %}
     {% assign tags = tags | concat: listOfTags %}
 {% endfor %}
-{% assign tags = tags | uniq | sort %}
+{% assign tags = tags | uniq | sort_natural %}
 {% for tag in tags %}
 ## {{ tag | capitalize }}
 {% for recipe in recipes %}

@@ -1,3 +1,7 @@
+---
+image: "recipes/images/waffles_1.jpg"
+---
+
 # Waffles
 
 Laura's waffle recipe, stolen from ancestors.

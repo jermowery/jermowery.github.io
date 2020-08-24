@@ -1,3 +1,7 @@
+---
+image: "recipes/images/cr_2.jpg"
+---
+
 # Cinnamon Rolls
 
 [Original](https://www.twopeasandtheirpod.com/wprm_print/42397){:target="_blank"}

@@ -1,3 +1,7 @@
+---
+image: "recipes/images/fondue_2.jpg"
+---
+
 # Fondue (for 2 people)
 
 Stolen by Laura from Peter
