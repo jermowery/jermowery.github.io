@@ -12,11 +12,30 @@
         gtag('config', '{{ site.google_analytics }}');
     </script>
     {% endif %}
-    <script>
+    <script type="module" defer>
+        import { Octokit } from "https://cdn.pika.dev/@octokit/rest";
         // register ServiceWorker, remember to use absolute path!
         if (navigator.serviceWorker) {
-            const version = encodeURIComponent('{{site.github.build_revision}}');
-            navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'})
+            (async function() {
+                /** @type string */
+                let version;
+
+                try {
+                    const octokit = new Octokit();
+
+                    const {data: commits} = await octokit.repos.listCommits({
+                        "owner": "jermowery",
+                        "repo": "jermowery.github.io",
+                    });
+                    const latestCommit = commits[0];
+                    const commitSha = encodeURIComponent(latestCommit["sha"]);
+                    version = commitSha;
+                } catch (e) {
+                    console.error(e);
+                    version = encodeURIComponent('{{site.github.build_revision}}');
+                }
+                navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'});
+            })();
         }
     </script>
     <meta charset="UTF-8">
