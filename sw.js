@@ -5,6 +5,7 @@ const URLS = [
   '/recipes',
   '/recipes/',
   '/recipes/index.html',
+  "/recipes/tags.html",
   '/recipes?source=pwa',
   '/recipes/?source=pwa',
   '/recipes/index.html?source=pwa',
