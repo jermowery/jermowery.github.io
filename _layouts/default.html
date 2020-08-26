@@ -12,9 +12,16 @@
         gtag('config', '{{ site.google_analytics }}');
     </script>
     {% endif %}
+    <script defer src="https://cdn.jsdelivr.net/npm/stackdriver-errors-js/dist/stackdriver-errors-concat.min.js"></script>
     <script type="module" defer>
         import { Octokit } from "https://cdn.pika.dev/@octokit/rest";
-        // register ServiceWorker, remember to use absolute path!
+
+        var errorHandler = new StackdriverErrorReporter();
+        errorHandler.start({
+            key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
+            projectId: 'recipes-287600'
+        });
+
         if (navigator.serviceWorker) {
             (async function() {
                 /** @type string */
@@ -31,7 +38,7 @@
                     const commitSha = encodeURIComponent(latestCommit["sha"]);
                     version = commitSha;
                 } catch (e) {
-                    console.error(e);
+                    errorHandler.report(e);
                     version = encodeURIComponent('{{site.github.build_revision}}');
                 }
                 navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'});
