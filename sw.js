@@ -26,18 +26,18 @@ self.addEventListener('fetch', function (e) {
       } else {
         return fetch(e.request)
       }
-
-      // You can omit if/else for console.log & put one line below like this too.
-      // return request || fetch(e.request)
     })
   )
 })
 
 // Cache resources
 self.addEventListener('install', function (e) {
+  self.skipWaiting();
   e.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
-      return cache.addAll(URLS)
+      for(const url of URLS) {
+        cache.add(url);
+      }
     })
   )
 })
@@ -46,7 +46,8 @@ self.addEventListener('install', function (e) {
 self.addEventListener('activate', function (e) {
   e.waitUntil(
     caches.keys().then(keyList => {
-      Promise.all(keyList.filter(key => key !== CACHE_NAME).map(key => caches.delete(key)));
+      const oldCaches = keyList.filter(key => key !== CACHE_NAME);
+      Promise.all(oldCaches.map(key => caches.delete(key)));
     })
   );
 })
