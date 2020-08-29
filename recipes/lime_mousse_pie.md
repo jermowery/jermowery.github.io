@@ -1,6 +1,7 @@
 ---
     title: Lime Mousse Pie
     description: Delicious
+    image: "recipes/images/lime_mousse_pie.jpg"
     tags:
       - breakfast
       - dessert
