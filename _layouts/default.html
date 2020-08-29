@@ -12,39 +12,6 @@
         gtag('config', '{{ site.google_analytics }}');
     </script>
     {% endif %}
-    <script defer src="https://cdn.jsdelivr.net/npm/stackdriver-errors-js/dist/stackdriver-errors-concat.min.js"></script>
-    <script type="module" defer>
-        import { Octokit } from "https://cdn.pika.dev/@octokit/rest";
-
-        var errorHandler = new StackdriverErrorReporter();
-        errorHandler.start({
-            key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
-            projectId: 'recipes-287600'
-        });
-
-        if (navigator.serviceWorker) {
-            (async function() {
-                /** @type string */
-                let version;
-
-                try {
-                    const octokit = new Octokit();
-
-                    const {data: commits} = await octokit.repos.listCommits({
-                        "owner": "jermowery",
-                        "repo": "jermowery.github.io",
-                    });
-                    const latestCommit = commits[0];
-                    const commitSha = encodeURIComponent(latestCommit["sha"]);
-                    version = commitSha;
-                } catch (e) {
-                    errorHandler.report(e);
-                    version = encodeURIComponent('{{site.github.build_revision}}');
-                }
-                navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'});
-            })();
-        }
-    </script>
     <meta charset="UTF-8">
 
     {% seo %}
