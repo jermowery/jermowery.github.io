@@ -21,3 +21,7 @@
 3. Pat the mixture into a pie tin
 4. Follow the recipe for the lime mousse, then pour the result over the pie tin
 5. Let set in the freezer
+
+# Images
+
+![Lime Mousse Pie](images/lime_mousse_pie.jpg)
