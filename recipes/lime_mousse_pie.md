@@ -9,9 +9,9 @@
 
 ## Ingredients
 
-* XX graham crackers
-* XX butter
-* XX sugar
+* 1.5 cups of graham crackers
+* 6 tbsp butter
+* 1/3 cup sugar
 * ingredients for [Lime Mousse]('lime_mousse.html')
 
 ## Instructions
