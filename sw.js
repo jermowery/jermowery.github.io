@@ -1,5 +1,5 @@
 const APP_PREFIX = 'Recipes_';     // Identifier for this app (this needs to be consistent across every cache update)
-const URLS = [
+const URLS = [                            
   '/',                     
   '/index.html',
   '/recipes',
@@ -13,42 +13,40 @@ const URLS = [
   '/favicon.ico',
 ];
 /** @type string */
-const VERSION = "1";
+const VERSION = new URL(location).searchParams.get('version') || "local";
 /** @type string */
-const CACHE_NAME = APP_PREFIX + "+" + VERSION;
+const CACHE_NAME = APP_PREFIX + VERSION;
 
 // Respond with cached resources
 self.addEventListener('fetch', function (e) {
-  console.log("In fetch");
-  e.respondWith(async () => {
-    try {
-      return await fetch(e.request);
-    } catch (err) {
-      return cachces.match(e.request);
-    }
-  });
+  e.respondWith(
+    caches.match(e.request).then(function (request) {
+      if (request) {
+        return request
+      } else {
+        return fetch(e.request)
+      }
+
+      // You can omit if/else for console.log & put one line below like this too.
+      // return request || fetch(e.request)
+    })
+  )
 })
 
 // Cache resources
 self.addEventListener('install', function (e) {
-  console.log("Installing");
   e.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
-      console.log("Cache opened adding URLs");
-      return cache.addAll(URLS).then(console.log, console.error);
+      return cache.addAll(URLS)
     })
   )
 })
 
 // Delete outdated caches
 self.addEventListener('activate', function (e) {
-  console.log("In activate");
   e.waitUntil(
     caches.keys().then(keyList => {
-      Promise.all(keyList.filter(key => key !== CACHE_NAME).map(key => {
-        console.log("Delete cache: " + key);
-        return caches.delete(key); 
-      }));
+      Promise.all(keyList.filter(key => key !== CACHE_NAME).map(key => caches.delete(key)));
     })
   );
 })
