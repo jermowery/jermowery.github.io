@@ -12,23 +12,26 @@ const URLS = [
   '/assets/css/style.css',
   '/favicon.ico',
 ];
+
 /** @type string */
 const VERSION = new URL(location).searchParams.get('version') || "local";
 /** @type string */
 const CACHE_NAME = APP_PREFIX + VERSION;
 
 // Respond with cached resources
-self.addEventListener('fetch', function (e) {
-  e.respondWith(
-    caches.match(e.request).then(function (request) {
-      if (request) {
-        return request
-      } else {
-        return fetch(e.request)
-      }
+self.addEventListener('fetch', function(event) {
+  event.respondWith(
+    caches.open(CACHE_NAME).then(function(cache) {
+      return cache.match(event.request).then(function(response) {
+        const fetchPromise = fetch(event.request).then(function(networkResponse) {
+          cache.put(event.request, networkResponse.clone()).catch(() => {});
+          return networkResponse;
+        })
+        return response || fetchPromise;
+      })
     })
-  )
-})
+  );
+});
 
 // Cache resources
 self.addEventListener('install', function (e) {
@@ -40,7 +43,7 @@ self.addEventListener('install', function (e) {
       }
     })
   )
-})
+});
 
 // Delete outdated caches
 self.addEventListener('activate', function (e) {
@@ -50,4 +53,4 @@ self.addEventListener('activate', function (e) {
       Promise.all(oldCaches.map(key => caches.delete(key)));
     })
   );
-})
+});
