@@ -14,7 +14,7 @@
     {% endif %}
     <script defer src="https://cdn.jsdelivr.net/npm/stackdriver-errors-js/dist/stackdriver-errors-concat.min.js"></script>
     <!-- Load `web-vitals` using a module script. -->
-    <script type="module">
+    <script type="module" defer>
         import {getCLS, getFID, getLCP, getFCP, getTTFB} from 'https://unpkg.com/web-vitals/dist/web-vitals.es5.min.js?module';
     
         function sendToGoogleAnalytics({name, delta, id}) {
@@ -44,8 +44,6 @@
         getTTFB(sendToGoogleAnalytics);
     </script>
     <script type="module" defer>
-        import { Octokit } from "https://cdn.pika.dev/@octokit/rest";
-
         var errorHandler = new StackdriverErrorReporter();
         errorHandler.start({
             key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
@@ -53,26 +51,9 @@
         });
 
         if (navigator.serviceWorker) {
-            (async function() {
-                /** @type string */
-                let version;
-
-                try {
-                    const octokit = new Octokit();
-
-                    const {data: commits} = await octokit.repos.listCommits({
-                        "owner": "jermowery",
-                        "repo": "jermowery.github.io",
-                    });
-                    const latestCommit = commits[0];
-                    const commitSha = encodeURIComponent(latestCommit["sha"]);
-                    version = commitSha;
-                } catch (e) {
-                    errorHandler.report(e);
-                    version = encodeURIComponent('{{site.github.build_revision}}');
-                }
-                navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'});
-            })();
+            let version = '{{site.github.build_revision}}' || String(new Date().getTime());
+            version = encodeURIComponent(version);
+            navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'});
         }
     </script>
     <meta charset="UTF-8">
