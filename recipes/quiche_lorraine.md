@@ -1,6 +1,6 @@
 ---
 title: Quiche Lorraine
-description: Delicious Quiche via Anna
+description: Delicious Quiche
 author: Laura and her ancestors
 ---
 
