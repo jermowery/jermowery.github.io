@@ -2,6 +2,9 @@
 title: Quiche Lorraine
 description: Delicious Quiche
 author: Laura and her ancestors
+tags:
+    - dinner
+    - lunch
 ---
 
 # Notes
