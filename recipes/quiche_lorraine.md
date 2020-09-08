@@ -5,6 +5,7 @@ author: Laura and her ancestors
 tags:
     - dinner
     - lunch
+image: "recipes/images/quiche.jpg"
 ---
 
 # Notes
@@ -38,3 +39,7 @@ tags:
 1. Beat the egg whites until stiff and then fold into the cream mixture.
 1. Pour this mixture over the ham.
 1. Bake for at least 30 minutes, most likely it will take about 50 minutes. You will know it is done because it "looks beautiful" and doesn't jiggle "too much."
+
+# Pictures
+
+![Quiche](images/quiche.jpg)
