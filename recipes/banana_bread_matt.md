@@ -1,7 +1,8 @@
 ---
-title: "Grandma Lonergan's Banana Bread"
+title: "Banana Bread (Grandma Lonergan's)"
 date: 2020-07-18
 draft: false
+author: Matt Johnson
 description: "A cherished family banana bread recipe"
 tags: [
     "bread",
