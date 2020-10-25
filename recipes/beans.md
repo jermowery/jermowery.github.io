@@ -25,7 +25,7 @@ categories: [
 ## Ingredients
 
 ### Beans
-* 3 cups beans (1 lb)
+* 3 cups beans (1 lb), unsoaked
 * 9 cups water (3x cups beans)
 
 ### Seasoning
