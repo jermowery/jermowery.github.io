@@ -18,6 +18,10 @@ categories: [
 * Pressure cooker
 * Immersion blender (optional but makes things easier)
 
+## Notes on pressure cooking
+* The listed time to pressure cook something only starts counting from the moment pressure is achieved
+* With an Instant Pot use high pressure, and make sure you turn the release valve to sealing instead of venting
+
 ## Ingredients
 
 ### Beans
@@ -34,7 +38,7 @@ categories: [
 ## Instructions
 
 1. Wash the beans, removing any rocks or particularly disfigured beans
-2. Combine beans and water in pressure cooker and pressure cook for 50 minutes (with an Instant Pot use high pressure)
+2. Combine beans and water in pressure cooker and pressure cook for 50 minutes
 3. While the beans are cooking, start the seasoning:
      1. Saute the onions until translucent, then add the garlic and saute another minute
      2. Add the tomatoes and salt and continue sauteing until the mixture has the consistency of a sauce, then set it aside
