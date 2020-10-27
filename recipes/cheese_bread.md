@@ -1,5 +1,5 @@
 ---
-title: "Cheese bread"
+title: "Cheese bread (pão de queijo)"
 description: "A Brazilian delicacy"
 tags:
       - snack
