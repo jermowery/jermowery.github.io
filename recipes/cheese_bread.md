@@ -3,9 +3,8 @@ title: "Cheese bread"
 description: "A Brazilian delicacy"
 tags:
       - snack
+author: Regina Souza
 ---
-
-Stolen by Laura from Lesser Regina
 
 ## Equipment
 
@@ -20,7 +19,7 @@ Stolen by Laura from Lesser Regina
 * 3 eggs
 * 1 cup oil (bland)
 * 1 cup milk
-* 1/2 tablespoon
+* 1/2 tablespoon salt
 * 1.5 cups parmesan cheese
 * 3 cups tapioca flour
 
