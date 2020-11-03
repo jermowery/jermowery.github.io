@@ -44,10 +44,10 @@
     </script>
     <script type="module" defer>
         var errorHandler = new StackdriverErrorReporter();
-        errorHandler.start({
-            key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
-            projectId: 'recipes-287600'
-        });
+        // errorHandler.start({
+        //     key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
+        //     projectId: 'recipes-287600'
+        // });
 
         if (navigator.serviceWorker) {
             let version = '{{site.github.build_revision}}' || String(new Date().getTime());
@@ -57,10 +57,9 @@
     </script>
     <script type="module" defer>
         const shareButton = document.querySelector("#shareButton");
-        if (navigator.share) {
-            shareButton.style.display = 'initial';
+        if (navigator) {
             shareButton.addEventListener('click', () => {
-                const title = '{{ page.title }}';
+                const title = `{{ page.title }}`;
                 const text = '{{ page.description }}' || undefined;
                 const url = '{{ page.url }}'
                 navigator.share({
@@ -69,6 +68,7 @@
                     url,
                 });
             });
+            document.querySelectorAll('.btn').forEach(button => button.style.display = 'inline-block');
         }
     </script>
     <meta charset="UTF-8">
