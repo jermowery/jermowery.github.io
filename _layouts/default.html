@@ -55,6 +55,22 @@
             navigator.serviceWorker.register(`/sw.js?version=${version}`, {scope: '/'});
         }
     </script>
+    <script type="module" defer>
+        const shareButton = document.querySelector("#shareButton");
+        if (navigator.share) {
+            shareButton.style.display = 'initial';
+            shareButton.addEventListener('click', () => {
+                const title = '{{ page.title }}';
+                const text = '{{ page.description }}' || undefined;
+                const url = '{{ page.url }}'
+                navigator.share({
+                    title,
+                    text,
+                    url,
+                });
+            });
+        }
+    </script>
     <meta charset="UTF-8">
 
     {% seo %}
@@ -69,6 +85,9 @@
 <body>
     <header class="page-header" role="banner" style="padding-top: 1px; padding-bottom: 1px;">
         <a href="/recipes/" class="btn" style="margin-top: 20px;">Recipes Home</a>
+        <button class="btn" style="margin-top: 20px; display: none;" id="shareButton">
+            Share
+        </button>
     </header>
     <main id="content" class="main-content" role="main">
         {% if page.title %}
