@@ -15,5 +15,17 @@ categories: [
 
 # Ingredients
 
+The ingredients below do not have quantities. Use amounts that you find tasty
+
+* Minced garlic (to taste)
+* Red pepper flakes (to taste)
+* Extra virgin olive oil
+* Sesame oil
+* Green beans
+* Soy sauce (diluted in water so it's not so strong)
 
 # Instructions
+
+1. Fry minced garlic and red pepper flakes in a generous amount of extra virgin olive oil and bit of sesame oil
+2. Fry the green beans in the oil mixture until desired tenderness (adjust the heat so it doesn't burn, add a bit of water if it gets dry  before it is soft enough)
+3. Add soy sauce
