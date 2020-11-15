@@ -1,6 +1,7 @@
 ---
 title: "Recipes by tags"
 showInRecipesList: false
+exclude_from_search: true
 ---
 [All recipes](index.html)
 

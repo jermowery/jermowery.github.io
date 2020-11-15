@@ -44,10 +44,10 @@
     </script>
     <script type="module" defer>
         var errorHandler = new StackdriverErrorReporter();
-        // errorHandler.start({
-        //     key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
-        //     projectId: 'recipes-287600'
-        // });
+        errorHandler.start({
+            key: 'AIzaSyBICupZJcgrzEmHenC316pJFSNwKjQ5qEM',
+            projectId: 'recipes-287600'
+        });
 
         if (navigator.serviceWorker) {
             let version = '{{site.github.build_revision}}' || String(new Date().getTime());
@@ -57,7 +57,7 @@
     </script>
     <script type="module" defer>
         const shareButton = document.querySelector("#shareButton");
-        if (navigator) {
+        if (navigator.share) {
             shareButton.addEventListener('click', () => {
                 const title = `{{ page.title }}`;
                 const text = '{{ page.description }}' || undefined;
@@ -68,9 +68,17 @@
                     url,
                 });
             });
-            document.querySelectorAll('.btn').forEach(button => button.style.display = 'inline-block');
+            document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');
         }
     </script>
+    {% if page.tipue_search_active or layout.tipue_search_active %}
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+    <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+    {% endif %}
     <meta charset="UTF-8">
 
     {% seo %}
@@ -80,18 +88,24 @@
     <link rel="manifest" href="/manifest.webmanifest">
     <link rel="apple-touch-icon" href="/maskable_icon_192.png">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
 </head>
 
 <body>
     <header class="page-header" role="banner" style="padding-top: 20px; padding-bottom: 1px;">
         <a href="/recipes/" class="btn" style="width: auto">Recipes Home</a>
-        <button class="btn" style="width: auto; display: none; margin-top: 0px" id="shareButton">
-            Share
-        </button>
     </header>
     <main id="content" class="main-content" role="main">
         {% if page.title %}
-            <h1>{{ page.title }}</h1>
+            <h1 style="display: inline-block">{{ page.title }}</h1>
+            <button
+                id="shareButton"
+                style="display: none;
+                       background-color: transparent;
+                       border: none;">
+                <i class="material-icons">share</i>
+            </button>
         {% endif %}
         {% if page.author %}
             <p>By {{ page.author }}</p>

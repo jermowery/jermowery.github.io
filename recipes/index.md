@@ -2,6 +2,7 @@
 title: Recipes
 description: A list of recipes
 showInRecipesList: false
+exclude_from_search: true
 ---
 [Recipes by tags](tags.html)
 
