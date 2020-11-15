@@ -95,10 +95,11 @@
 <body>
     <header class="page-header" role="banner" style="padding-top: 20px; padding-bottom: 1px;">
         <a href="/recipes/" class="btn" style="width: auto">Recipes Home</a>
+        <a href="/recipes/search/" class="btn" style="width: auto">Search</a>
     </header>
     <main id="content" class="main-content" role="main">
         {% if page.title %}
-            <h1 style="display: inline-block">{{ page.title }}</h1>
+            <h1 style="display: inline-block; margin-bottom: 0;">{{ page.title }}</h1>
             <button
                 id="shareButton"
                 style="display: none;
