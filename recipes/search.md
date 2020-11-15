@@ -6,7 +6,7 @@ tipue_search_active: true
 exclude_from_search: true
 ---
 
-<form action="{{ page.url | relative_url }}">
+<form action="{{ page.url | relative_url }}" style="margin-top: 8px">
   <div class="tipue_search_left">
     <img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon">
   </div>
