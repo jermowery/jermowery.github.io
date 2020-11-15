@@ -108,12 +108,14 @@
                 <i class="material-icons">share</i>
             </button>
         {% endif %}
-        {% if page.author %}
-            <p>By {{ page.author }}</p>
-        {% endif %}
-        {% if page.date %}
-            <p>Published {{ page.date | date: "%D" }}</p>
-        {% endif %}
+        <div>
+            {% if page.author %}
+                <p>By {{ page.author }}</p>
+            {% endif %}
+            {% if page.date %}
+                <p>Published {{ page.date | date: "%D" }}</p>
+            {% endif %}
+        </div>
         {{ content }}
 
         <footer class="site-footer">
