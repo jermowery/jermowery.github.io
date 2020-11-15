@@ -27,6 +27,6 @@ The ingredients below do not have quantities. Use amounts that you find tasty
 
 # Instructions
 
-1. Fry minced garlic, red pepper flakes, and optionally toasted sesame seeds in a generous amount of extra virgin olive oil and bit of sesame oil
-2. Fry the green beans in the oil mixture until desired tenderness (adjust the heat so it doesn't burn, add a bit of water if it gets dry  before it is soft enough). Start with the lid on and take the lid off every few minutes to stir and prevent burning
+1. Saute minced garlic, red pepper flakes, and optionally toasted sesame seeds in a generous amount of extra virgin olive oil and bit of sesame oil
+2. Stir fry the green beans. Cover and let its own moisture soften it some. Repeat this every few minutes until desired tenderness. (Adjust the heat so it doesn’t burn, add a bit of water if it gets dry before it is soft enough)
 3. Add soy sauce
