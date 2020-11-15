@@ -108,13 +108,16 @@
                 <i class="material-icons">share</i>
             </button>
         {% endif %}
-        <div>
-            {% if page.author %}
-                <p>By {{ page.author }}</p>
-            {% endif %}
-            {% if page.date %}
-                <p>Published {{ page.date | date: "%D" }}</p>
-            {% endif %}
+        <div style="font-size: 0.8rem">
+            <p style="margin-bottom: 0;">
+                {% if page.author %}
+                    By {{ page.author }}
+                {% endif %}
+                <br>
+                {% if page.date %}
+                   Published {{ page.date | date: "%D" }}
+                {% endif %}
+            </p>
         </div>
         {{ content }}
 
