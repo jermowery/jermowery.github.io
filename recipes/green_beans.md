@@ -21,7 +21,7 @@ The ingredients below do not have quantities. Use amounts that you find tasty
 * Red pepper flakes (to taste)
 * (optional) toasted sesame seeds
 * Extra virgin olive oil
-* Sesame oil
+* Sesame oil (a little goes a long way)
 * Green beans
 * Soy sauce (diluted in water so it's not so strong)
 
