@@ -31,7 +31,10 @@ image: "recipes/images/quiche.jpg"
 # Instructions
 
 1. Preheat oven to 200 C (392 F)
-1. Use your fingertips to form a smooth dough out of the flour, butter, salt, and 5 Tbsp of water. Don't knead it, just squish it together.
+1. Put flour and salt in a bowl
+1. Slice butter and add it to the bowl
+1. Use a pastry cutter to cut butter into flour until you don't have any chunks of butter
+1. Add water and stir until the mixture is a uniform color that does not look like flour. The mixture will be crumbly
 1. Smear a springform pan with butter and dust with a bit of flour.
 1. Press the dough into the pan, making sure that there is a raised crust.
 1. Cut the ham into small pieces and sprinkle it onto the dough.
