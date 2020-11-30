@@ -1,5 +1,7 @@
 ---
 title: "Waffles"
+author: Laura Vonessen
+description: The one true way to make waffles
 image: "recipes/images/waffles_1.jpg"
 ---
 
@@ -16,15 +18,18 @@ If feeding more people double or triple the amounts below.
 
 ## Ingredients
 
+<label for="servingFactor">Number of people eating: </label>
+<input type="number" value="2" id="servingFactor" name="servingFactor" min="1">
+
 ### Waffle batter
 
-* 1/2 stick butter (covered)
-* 2 eggs
-* 1 pinch salt
-* 1/4 cup sugar
-* 3/4 cup oats
-* 3/4 cup flour
-* 1 cup milk (to right consistency)
+* <span class="unit">1/2</span> stick butter (covered)
+* <span class="unit">2</span> eggs
+* <span class="unit">1</span> pinch salt
+* <span class="unit">1/4</span> cup sugar
+* <span class="unit">3/4</span> cup oats
+* <span class="unit">3/4</span> cup flour
+* <span class="unit">1</span> cup milk (to right consistency)
 
 ### Mandated toppings
 

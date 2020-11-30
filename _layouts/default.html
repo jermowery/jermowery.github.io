@@ -15,7 +15,7 @@
     <script defer src="https://cdn.jsdelivr.net/npm/stackdriver-errors-js/dist/stackdriver-errors-concat.min.js"></script>
     <!-- Load `web-vitals` using a module script. -->
     <script type="module" defer>
-        import {getCLS, getFID, getLCP, getFCP, getTTFB} from 'https://unpkg.com/web-vitals/dist/web-vitals.es5.min.js?module';
+        import {getCLS, getFID, getLCP, getFCP, getTTFB} from 'https://unpkg.com/web-vitals?module';
     
         function sendToGoogleAnalytics({name, delta, id}) {
             // Assumes the global `gtag()` function exists, see:
@@ -71,6 +71,38 @@
             document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');
         }
     </script>
+    <script defer>
+        function onMathJsLoad() {
+            const servingFactorElement = document.getElementById("servingFactor");
+            if (!servingFactorElement) {
+                return;
+            }
+            math.config({
+                number: 'Fraction',
+            });
+            const intendedServingFactor = servingFactorElement.valueAsNumber;
+            const elementsAndOriginalValues =
+                Array.from(document.querySelectorAll("span.unit"))
+                .map(unitElement => {
+                    return {
+                        unitElement,
+                        quantity: math.fraction(unitElement.textContent),
+                    }
+                })
+    
+            servingFactorElement.addEventListener("change", () => {
+                const newServingFactor = servingFactorElement.valueAsNumber;
+                const servingFactor = math.fraction(newServingFactor, intendedServingFactor);
+                const unitElements = document.querySelectorAll("span.unit");
+                for (const {unitElement, quantity} of elementsAndOriginalValues) {
+                    const scaledUnit = math.multiply(quantity, servingFactor);
+                    let formattedScaledUnit = math.format(scaledUnit).replace(/^(.*)\/1$/, "$1");
+                    unitElement.textContent = formattedScaledUnit;
+                }
+            });
+        }
+    </script>
+    <script defer onload="onMathJsLoad()" src="https://unpkg.com/mathjs@8.0.1/lib/browser/math.js"></script>
     {% if page.tipue_search_active or layout.tipue_search_active %}
     <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
