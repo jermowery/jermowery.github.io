@@ -11,7 +11,7 @@ The portions here are for 2 people to eat a large breakfast.
 
 If feeding more people double or triple the amounts below.
 
-### Equipment
+## Equipment
 
 * Blender
 * Waffle iron that makes hearts
