@@ -23,7 +23,7 @@ If feeding more people double or triple the amounts below.
 
 ### Waffle batter
 
-* <span class="unit">1/2</span> stick butter (covered)
+* <span class="unit">1/2</span> stick butter
 * <span class="unit">2</span> eggs
 * <span class="unit">1</span> pinch salt
 * <span class="unit">1/4</span> cup sugar
