@@ -63,4 +63,4 @@ Note: the lentils and leeks start out in two separate pots, then both end up in 
 
 # Pictures
 
-![Lentil stew]("https://static01.nyt.com/images/2020/10/30/dining/30tanisrex1-stew/merlin_179039508_8384549d-9354-48f6-88ad-3f0139cf2820-articleLarge.jpg")
+![Lentil stew](https://static01.nyt.com/images/2020/10/30/dining/30tanisrex1-stew/merlin_179039508_8384549d-9354-48f6-88ad-3f0139cf2820-articleLarge.jpg)
