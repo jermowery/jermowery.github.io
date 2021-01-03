@@ -3,7 +3,7 @@ title: "Banana Bread (Laura)"
 date: 2020-07-18
 draft: false
 author: Laura Vonessen
-description: "A cherished family banana bread recipe edited by Laura"
+description: "Originally stolen from Matt this recipe adds Laura's unique taste."
 tags: [
     "breakfast",
     "dessert",
@@ -15,8 +15,6 @@ image: "recipes/images/banana_bread_laura.jpg"
 ---
 
 [Original](./banana_bread_matt.html)
-
-Originally stolen from Matt this recipe adds Laura's unique taste.
 
 ## Prework:
 Preheat oven to 325

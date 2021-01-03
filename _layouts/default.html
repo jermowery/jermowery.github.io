@@ -141,16 +141,32 @@
             </button>
         {% endif %}
         <div style="font-size: 0.8rem">
-            <p style="margin-bottom: 0;">
-                {% if page.author %}
-                    By {{ page.author }}
-                {% endif %}
-                <br>
-                {% if page.date %}
-                   Published {{ page.date | date: "%D" }}
-                {% endif %}
-            </p>
+            <div>
+                <p style="margin-bottom: 0;">
+                    {% if page.author %}
+                        By {{ page.author }}
+                    {% endif %}
+                    <br>
+                    {% if page.date %}
+                    Published {{ page.date | date: "%D" }}
+                    {% endif %}
+                </p>
+            </div>
         </div>
+        {% if page.image %}
+            <div>
+                <img
+                    style="max-height: 350px;"
+                    src="{{ site.url}}/{{ page.image }}"
+                    alt="{{ page.description }}">
+            </div>
+        {% endif %}
+        {% if page.description %}
+        <br>
+        <div>
+            {{ page.description }}
+        </div>
+        {% endif %}
         {{ content }}
 
         <footer class="site-footer">
