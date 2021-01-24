@@ -4,7 +4,6 @@ description: A delicious recipe
 google_analytics: UA-165281829-1
 permalink: /:categories/:title:output_ext
 page_excerpts: true
-url: "https://mowery.dev"
 tipue_search:
   include:
     pages: true
