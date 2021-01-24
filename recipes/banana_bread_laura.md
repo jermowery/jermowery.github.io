@@ -11,7 +11,7 @@ tags: [
 categories: [
     "recipes",
     ]
-image: "recipes/images/banana_bread_laura.jpg"
+image: "/recipes/images/banana_bread_laura.jpg"
 ---
 
 [Original](./banana_bread_matt.html)
