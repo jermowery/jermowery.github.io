@@ -4,7 +4,7 @@ description: A Brazilian? delicacy
 tags:
     - dinner
     - lunch
-image: "recipes/images/bolotas_2.jpg"
+image: "/recipes/images/bolotas_2.jpg"
 ---
 
 [Original](images/bolotas.jpg){:target="_blank"}

@@ -2,7 +2,7 @@
 title: "Waffles"
 author: Laura Vonessen
 description: The one true way to make waffles
-image: "recipes/images/waffles_1.jpg"
+image: "/recipes/images/waffles_1.jpg"
 ---
 
 Laura's waffle recipe, stolen from ancestors.

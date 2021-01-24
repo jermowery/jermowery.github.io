@@ -5,7 +5,7 @@ author: Laura and her ancestors
 tags:
     - dinner
     - lunch
-image: "recipes/images/quiche.jpg"
+image: "/recipes/images/quiche.jpg"
 ---
 
 # Notes
