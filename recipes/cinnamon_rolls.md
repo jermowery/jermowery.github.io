@@ -1,6 +1,6 @@
 ---
 title: "Cinnamon Rolls"
-image: "recipes/images/cr_2.jpg"
+image: "images/cr_2.jpg"
 tags: 
       - dessert
 ---
