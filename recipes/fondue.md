@@ -1,6 +1,6 @@
 ---
 title: "Fondue"
-image: "recipes/images/fondue_2.jpg"
+image: "/recipes/images/fondue_2.jpg"
 tags:
   - dinner
 ---
