@@ -3,6 +3,7 @@ title: "Carrot Cake"
 author: Jeremy
 tags:
       - dessert
+image: "/recipes/images/carrot_cake.jpg"
 ---
 
 [Original](https://www.inspiredtaste.net/25753/carrot-cake-recipe/itr_print/){:target="_blank"}
