@@ -56,7 +56,3 @@ image: "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex6/merlin_1
 1. Add the cooked meat, baked eggplants, sour grapes, and the optional saffron and bring it to another boil. Add extra water if needed but only in small amounts so the sauce is not watered down.
 1. Reduce the heat to medium low and simmer for 45 minutes to an hour until the sauce has thickened and the meat, eggplants, (and carrots if you're a heathen like Laura) are very tender. It should be pleasantly tart, so adjust the seasoning with salt and lime juice as needed.
 1. Serve over rice.
-
-# Pictures
-
-![Persian eggplant stew](https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex6/merlin_154114563_510d1c7c-f8d0-4f6f-9bf9-c0756e7619c9-articleLarge.jpg)
