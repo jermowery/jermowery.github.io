@@ -14,6 +14,8 @@ categories: [
 image: "/recipes/images/banana_bread_laura.jpg"
 ---
 
+<link href="banana_bread_laura.json" rel="alternate" type="application/ld+json" />
+
 [Original](./banana_bread_matt.html)
 
 ## Prework:
