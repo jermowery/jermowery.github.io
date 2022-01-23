@@ -143,7 +143,9 @@
         <div style="font-size: 0.8rem">
             <div>
                 <p style="margin-bottom: 0;">
-                    {% if page.author %}
+                    {% if page.author.name %}
+                        By {{ page.author.name }}
+                    {% else page.author %}
                         By {{ page.author }}
                     {% endif %}
                     <br>
