@@ -34,7 +34,7 @@ categories: [
 8. (optional) Let the cookies dry for ~25 minutes. If you didn't actually preheat the oven in step 1, now is a good time.
 9. Bake for 16-20 minutes
 
-## Substition/optional notes
+## Substitution/optional notes
 * My mom only uses 1/2 cup of sugar
 * Technically the original recipe calls for "a packet" of vanilla sugar, which is some sort of standard measurement sold in Germany, but that doesn't seem to exist in the US. My mom sticks a whole vanilla bean in a jar of sugar, which as time goes on will infuse the sugar with vanilla flavor, and says she thinks she uses about 2 Tbsp. I'm pretty sure I've also made this recipe with no vanilla sugar at all and it was still delicious
 * My mom does not let the batter sit, either before it's scooped onto the baking sheet or after. She thinks this makes them spread out a little more? But they're still delicious
