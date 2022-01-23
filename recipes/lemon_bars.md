@@ -7,6 +7,8 @@ tags:
     - dessert
 ---
 
+[Original](https://preppykitchen.com/lemon-bars/){:target="_blank"}
+
 # Ingredients
 
 * 3 cups all-purpose flour divided 2 1/2 cups for crust and 1/2 cup for filling
