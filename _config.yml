@@ -7,6 +7,9 @@ page_excerpts: true
 tipue_search:
   include:
     pages: true
+author:
+  name: Jeremy Mowery
+  url: https://mowery.dev
 defaults:
   -
     scope:
