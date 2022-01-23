@@ -1,6 +1,6 @@
 ---
 title: "Carrot Cake"
-author: Jeremy
+author: Jeremy Mowery
 tags:
       - dessert
 image: "/recipes/images/carrot_cake.webp"
