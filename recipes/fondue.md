@@ -1,8 +1,10 @@
 ---
 title: "Fondue"
 image: "/recipes/images/fondue_2.jpg"
+date: 2022-02-20
 tags:
   - dinner
+author: Peter Vonessen
 ---
 
 Stolen by Laura from Peter
@@ -21,6 +23,7 @@ Stolen by Laura from Peter
 * Best served with 1/2 small baguette per person
   * Cut less than you think you will need to prevent left overs from going stale because the cheese is very filling
 * Cheese can be substituted, just ask the cheese person at the store for a substitute for a fondue
+* It is best to note start mixing the cheese until after guests arrive to avoid clumping
 
 ## Ingredients
 
@@ -30,8 +33,8 @@ Stolen by Laura from Peter
 * 4 cloves garlic
 * 1/2 large onion
 * Chili flakes and/or cayenne
-* 1 tsp cornstarch (up to 3 tsp more to adjust consistency)
-* A little lemon juice
+* 1 tbsp cornstarch (up to 1 tsp more to adjust consistency)
+* The juice from 1/2 a lemon up to 1 whole lemon, to taste
 
 ## Instructions
 
