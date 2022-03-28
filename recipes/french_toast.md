@@ -10,6 +10,7 @@ description: "French Toast ala Regina"
 ## Notes
 
 * This recipe involves leaving the bread in the fridge overnight, plan accordingly
+* Requires a large pan (10x15)
 
 ## Ingredients
 
