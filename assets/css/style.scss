@@ -7,3 +7,40 @@
 body {
     font-family: "Roboto Serif", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.alert {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+    padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+
+    .material-icons-outlined {
+        font-size: inherit;
+    }
+}
+
+.alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.alert-warning {
+    color: #444;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
