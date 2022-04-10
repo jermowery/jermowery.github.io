@@ -1,7 +1,11 @@
 ---
 title: "Broiled Salmon"
+date: 2022-04-10
+author: Regina Souza
+description: "Adapted from a Flank Steak Recipe by Julia Child"
+
 tags: 
-      - dinner
+      "lunch", "dinner"
 ---
 
 ### Broiled Salmon
