@@ -8,8 +8,6 @@ tags:
       "lunch", "dinner"
 ---
 
-### Broiled Salmon
-
 ## The Marinade
 
 * 3 Tb minced onions (or scallions, or shallots) 
