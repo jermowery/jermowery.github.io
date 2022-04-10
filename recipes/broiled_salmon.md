@@ -5,7 +5,8 @@ author: Regina Souza
 description: "Adapted from a Flank Steak Recipe by Julia Child"
 
 tags: 
-      lunch, dinner
+      lunch
+      dinner
 ---
 
 ## The Marinade
