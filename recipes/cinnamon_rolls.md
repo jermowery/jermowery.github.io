@@ -3,6 +3,11 @@ title: "Cinnamon Rolls"
 image: "/recipes/images/cr_2.webp"
 tags: 
       - dessert
+carousel:
+      - image: "/recipes/images/cr_1.webp"
+        description: "Fresh out of the oven"
+      - image: "/recipes/images/cr_2.webp"
+        description: "So beautiful" 
 ---
 
 [Original](https://www.twopeasandtheirpod.com/wprm_print/42397){:target="_blank"}

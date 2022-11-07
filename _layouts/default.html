@@ -158,17 +158,38 @@
                 </p>
             </div>
         </div>
-        {% if page.image %}
+        {% if page.image && !page.carousel %}
+        <div>
+            <img
+                style="max-height: 350px;"
+                src="{{ page.image }}"
+                alt="{{ page.description }}">
+        </div>
+        {% endif %}
+        {% if page.carousel %}
         <div id="pageImagesCarouselIndicators" class="carousel slide" data-bs-ride="true" style="max-width: 350px;">
             <div class="carousel-indicators">
-                <button type="button" data-bs-target="#pageImagesCarouselIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="{{ page.description }}"></button>
+                {% for item in page.carousel %}
+                    <button
+                        type="button"
+                        data-bs-target="#pageImagesCarouselIndicators"
+                        data-bs-slide-to="{{ forloop.length }}"
+                        {%- if forloop.index == 0 -%}
+                        class="active"
+                        aria-current="true"
+                        {%- endif -%}
+                        aria-label="{{ item.description }}">
+                    </button>
+                {% endfor %}
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="{{ page.image }}" class="d-block" alt="{{ page.description }}">
-                    <div class="carousel-caption d-none d-md-block">
-                        <p>{{ page.description }}</p>
-                    </div>
+                    {% for item in page.carousel %}
+                        <img src="{{ item.image }}" class="d-block" alt="{{ item.description }}">
+                        <div class="carousel-caption d-none d-md-block">
+                            <p>{{ item.description }}</p>
+                        </div>
+                    {% endfor %}
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#pageImagesCarouselIndicators" data-bs-slide="prev">
