@@ -158,14 +158,6 @@
                 </p>
             </div>
         </div>
-        {% if page.image && !page.carousel %}
-        <div>
-            <img
-                style="max-height: 350px;"
-                src="{{ page.image }}"
-                alt="{{ page.description }}">
-        </div>
-        {% endif %}
         {% if page.carousel %}
         <div id="pageImagesCarouselIndicators" class="carousel slide" data-bs-ride="true" style="max-width: 350px;">
             <div class="carousel-indicators">
@@ -184,7 +176,7 @@
             </div>
             <div class="carousel-inner">
                 {% for item in page.carousel %}
-                    <div class="carousel-item {%- if forloop.index0 == 0 -%}active{%- endif -%}">
+                    <div class="carousel-item {% if forloop.index0 == 0 %}active{% endif %}">
                         <img src="{{ item.image }}" class="d-block" alt="{{ item.description }}">
                         <div class="carousel-caption d-none d-md-block">
                             <p>{{ item.description }}</p>
@@ -200,6 +192,13 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
+        </div>
+        {% elsif page.image}
+        <div>
+            <img
+                style="max-height: 350px;"
+                src="{{ page.image }}"
+                alt="{{ page.description }}">
         </div>
         {% endif %}
         {% if page.description %}
