@@ -173,8 +173,8 @@
                     <button
                         type="button"
                         data-bs-target="#pageImagesCarouselIndicators"
-                        data-bs-slide-to="{{ forloop.length }}"
-                        {%- if forloop.index == 0 -%}
+                        data-bs-slide-to="{{ forloop.index0 }}"
+                        {%- if forloop.index0 == 0 -%}
                         class="active"
                         aria-current="true"
                         {%- endif -%}
