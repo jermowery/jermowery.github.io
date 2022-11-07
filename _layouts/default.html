@@ -165,7 +165,10 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="{{ page.image }}" class="d-block" alt="{{ page.description }}">
+                    <img src="{{ page.image }}" class="d-block" alt="{{ page.description }}">
+                    <div class="carousel-caption d-none d-md-block">
+                        <p>{{ page.description }}</p>
+                    </div>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#pageImagesCarouselIndicators" data-bs-slide="prev">
