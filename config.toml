@@ -11,6 +11,7 @@ googleAnalytics = 'UA-165281829-1'
     disable_share = false
     background_color_class = "bg-purple"
     private = false
+    description = "A delicious recipe"
 
 [markup.goldmark.renderer]
     unsafe= true
