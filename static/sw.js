@@ -20,13 +20,17 @@ const CACHE_NAME = 'mowery.dev';
 // Respond with cached resources
 self.addEventListener('fetch', function(event) {
   event.respondWith(caches.open(CACHE_NAME).then(function(cache) {
-    return cache.match(event.request).then(function(response) {
-      const fetchPromise = fetch(event.request).then(function(networkResponse) {
-        cache.put(event.request, networkResponse.clone()).catch(() => {});
-        return networkResponse;
-      })
-      return response || fetchPromise;
-    })
+    return cache.match(event.request)
+        .then(function(response) {
+          const fetchPromise =
+              fetch(event.request).then(function(networkResponse) {
+                cache.put(event.request, networkResponse.clone())
+                    .catch(() => {});
+                return networkResponse;
+              })
+          return response || fetchPromise;
+        })
+        .catch(e => {});
   }));
 });
 
