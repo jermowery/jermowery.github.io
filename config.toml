@@ -9,6 +9,7 @@ googleAnalytics = 'UA-165281829-1'
 [params]
     show_reading_time = true
     disable_share = false
+    background_color_class = "bg-purple"
 
 [markup.goldmark.renderer]
     unsafe= true
