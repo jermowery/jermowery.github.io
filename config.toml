@@ -1,4 +1,4 @@
-baseURL = 'https://jermowery.github.io'
+baseURL = 'https://mowery.dev'
 languageCode = 'en-us'
 title = 'mowery.dev'
 theme = 'ananke'
