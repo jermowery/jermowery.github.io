@@ -39,7 +39,7 @@ self.addEventListener('install', function(e) {
   self.skipWaiting();
   e.waitUntil(caches.open(CACHE_NAME).then(function(cache) {
     for (const url of URLS) {
-      cache.add(url);
+      cache.add(url).catch(e => {});
     }
   }))
 });
