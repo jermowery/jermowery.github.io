@@ -7,8 +7,9 @@ author: Regina Souza
 description: "French Toast ala Regina"
 ---
 
-{% include important.html content="This recipe involves leaving the bread in the fridge overnight,
-                                   plan accordingly" %}
+## Important
+
+This recipe involves leaving the bread in the fridge overnight, plan accordingly
 
 ## Equipment
 
