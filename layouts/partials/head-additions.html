@@ -8,5 +8,5 @@ if (navigator.serviceWorker) {
     navigator.serviceWorker.register(`/sw.js`, {scope: '/'});
 }
 </script>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"
-      rel="stylesheet">
+<link rel="preload" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"></noscript>
