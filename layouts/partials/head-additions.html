@@ -1,0 +1,12 @@
+{{ template "_internal/google_analytics.html" . }}
+<meta name="theme-color" content="#157878">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/maskable_icon_192.png">
+<script type="module" defer>
+if (navigator.serviceWorker) {
+    navigator.serviceWorker.register(`/sw.js`, {scope: '/'});
+}
+</script>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"
+      rel="stylesheet">
