@@ -14,8 +14,8 @@ if (navigator.serviceWorker) {
         if (navigator.share) {
             shareButton.addEventListener('click', () => {
                 navigator.share({
-                    tile: "{$title}",
-                    url: "{$url}",
+                    tile: "Sue\u0027s Focaccia",
+                    url: "https:\/\/jermowery.github.io\/recipes\/sues_focaccia\/",
                 });
             });
             document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');

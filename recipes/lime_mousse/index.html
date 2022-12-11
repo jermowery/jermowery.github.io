@@ -10,8 +10,8 @@ if (navigator.serviceWorker) {
         if (navigator.share) {
             shareButton.addEventListener('click', () => {
                 navigator.share({
-                    tile: "{$title}",
-                    url: "{$url}",
+                    tile: "Lime Mousse",
+                    url: "https:\/\/jermowery.github.io\/recipes\/lime_mousse\/",
                 });
             });
             document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');

@@ -10,8 +10,8 @@ if (navigator.serviceWorker) {
         if (navigator.share) {
             shareButton.addEventListener('click', () => {
                 navigator.share({
-                    tile: "{$title}",
-                    url: "{$url}",
+                    tile: "Cheese bread (pão de queijo)",
+                    url: "https:\/\/jermowery.github.io\/recipes\/cheese_bread\/",
                 });
             });
             document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');

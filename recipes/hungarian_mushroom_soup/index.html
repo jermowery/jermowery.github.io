@@ -10,8 +10,8 @@ if (navigator.serviceWorker) {
         if (navigator.share) {
             shareButton.addEventListener('click', () => {
                 navigator.share({
-                    tile: "{$title}",
-                    url: "{$url}",
+                    tile: "Hungarian Mushroom Soup",
+                    url: "https:\/\/jermowery.github.io\/recipes\/hungarian_mushroom_soup\/",
                 });
             });
             document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');

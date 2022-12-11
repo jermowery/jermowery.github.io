@@ -22,8 +22,8 @@ if (navigator.serviceWorker) {
         if (navigator.share) {
             shareButton.addEventListener('click', () => {
                 navigator.share({
-                    tile: "{$title}",
-                    url: "{$url}",
+                    tile: "Ma\u0027 Johnson\u0027s Fresh Blueberry Pie",
+                    url: "https:\/\/jermowery.github.io\/recipes\/blueberry_pie\/",
                 });
             });
             document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');
