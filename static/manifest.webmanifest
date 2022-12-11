@@ -1,0 +1,24 @@
+{
+    "short_name": "Recipes",
+    "name": "Mowery.dev Recipes",
+    "description": "Recipes",
+    "icons": [
+      {
+        "src": "maskable_icon_192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "maskable_icon_512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/recipes/?source=pwa",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#157878"
+  }

@@ -1,0 +1,23 @@
+{{ $title := .Title }}
+{{ $url := printf "%s" .Permalink | absLangURL }}
+<div id="sharing" class="mt3 ananke-socials">
+    <button
+        id="shareButton"
+        style="display: none;
+            background-color: transparent;
+            border: none;">
+        <i class="material-icons">share</i>
+    </button>
+</div>
+<script type="module" defer>
+    const shareButton = document.querySelector("#shareButton");
+        if (navigator.share) {
+            shareButton.addEventListener('click', () => {
+                navigator.share({
+                    tile: "{$title}",
+                    url: "{$url}",
+                });
+            });
+            document.querySelectorAll('#shareButton').forEach(button => button.style.display = 'inline-block');
+        }
+</script>

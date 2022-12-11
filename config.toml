@@ -1,0 +1,14 @@
+baseURL = 'https://jermowery.github.io'
+languageCode = 'en-us'
+title = 'mowery.dev'
+theme = 'ananke'
+enableEmoji = true
+enableGitInfo = true
+googleAnalytics = 'UA-165281829-1'
+
+[params]
+    show_reading_time = true
+    disable_share = false
+
+[markup.goldmark.renderer]
+    unsafe= true
