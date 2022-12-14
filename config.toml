@@ -1,7 +1,7 @@
 baseURL = 'https://mowery.dev'
 languageCode = 'en-us'
 title = 'mowery.dev'
-theme = 'ananke'
+theme = ['hugo-notice', 'ananke']
 enableEmoji = true
 enableGitInfo = true
 googleAnalytics = 'UA-165281829-1'
