@@ -1,10 +1,10 @@
 ---
 title: "Cinnamon Rolls"
 images:
-  - "../images/cr_1.webp"
-  - "../images/cr_2.webp"
-tags: 
-      - dessert
+  - "../images/cr_1.jpg"
+  - "../images/cr_2.jpg"
+tags:
+  - dessert
 description: "Cinnamon Rolls"
 ---
 
@@ -14,28 +14,28 @@ description: "Cinnamon Rolls"
 
 ### Cinnamon Rolls
 
-* 4 1/2 teaspoons active dry yeast (2 packets)
-* 1 cup lukewarm water
-* 1 teaspoon granulated sugar, to proof the yeast
-* 6 tablespoons shortening or unsalted butter
-* 1 cup granulated sugar
-* 9 cups unbleached all-purpose flour (more if the dough is sticky, up to 10 cups)
-* 2 cups hot water
-* 2 large eggs, beaten
-* 1 tablespoon salt
-* 1/2 cup softened butter, divided
-* 1 1/2 cups brown sugar, divided
-* 1 cup raisins
-* 1 cup pecans
-* 2 tablespoons ground cinnamon, divided
-* 1 cup heavy cream
+- 4 1/2 teaspoons active dry yeast (2 packets)
+- 1 cup lukewarm water
+- 1 teaspoon granulated sugar, to proof the yeast
+- 6 tablespoons shortening or unsalted butter
+- 1 cup granulated sugar
+- 9 cups unbleached all-purpose flour (more if the dough is sticky, up to 10 cups)
+- 2 cups hot water
+- 2 large eggs, beaten
+- 1 tablespoon salt
+- 1/2 cup softened butter, divided
+- 1 1/2 cups brown sugar, divided
+- 1 cup raisins
+- 1 cup pecans
+- 2 tablespoons ground cinnamon, divided
+- 1 cup heavy cream
 
 ### Frosting
 
-* 1/4 cup unsalted butter, softened
-* 4 cups powdered sugar
-* 4 tablespoons milk, more if necessary
-* 1 teaspoon vanilla extract
+- 1/4 cup unsalted butter, softened
+- 4 cups powdered sugar
+- 4 tablespoons milk, more if necessary
+- 1 teaspoon vanilla extract
 
 ## Instructions
 
