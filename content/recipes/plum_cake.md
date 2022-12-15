@@ -2,6 +2,7 @@
 title: Plum Cake (Pflaumenkuchen)
 images:
   - "/recipes/images/plum_cake_1.jpg"
+featured_image: "/recipes/images/plum_cake_1.jpg"
 tags:
   - dessert
   - breakfast
