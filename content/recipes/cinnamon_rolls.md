@@ -6,6 +6,7 @@ images:
 tags:
   - dessert
 description: "Cinnamon Rolls"
+featured_image: "/recipes/images/cr_2.webp"
 ---
 
 [Original](https://www.twopeasandtheirpod.com/wprm_print/42397)
