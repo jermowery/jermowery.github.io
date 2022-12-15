@@ -4,6 +4,7 @@ author: Laura Vonessen
 description: The one true way to make waffles
 images:
   - "/recipes/images/waffles_1.jpg"
+featured_image: "/recipes/images/waffles_1.jpg"
 ---
 
 Laura's waffle recipe, stolen from ancestors.
