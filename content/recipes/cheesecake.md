@@ -3,15 +3,11 @@ title: "Cheesecake (Julia)"
 date: 2020-12-06
 draft: false
 author: Julia Vonessen
-description: "Cheesecake stolen by Julia"
+description: "Cheesecake stolen from Julia"
 tags: ["breakfast", "dessert"]
-categories: ["recipes"]
 ---
 
 ## Ingredients
-
-<label for="servingFactor">Number of recipes: </label>
-<input type="number" value="1" id="servingFactor" name="servingFactor" min="1">
 
 ### Crust
 
