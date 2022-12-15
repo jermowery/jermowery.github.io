@@ -58,7 +58,7 @@ To add an image do the following:
 
 1. [Add the image to the images directory at content/recipes/images](https://github.com/jermowery/jermowery.github.io/upload/main/content/recipes/images)
 2. In the front matter of your recipe `.md` file, create an `images` field and add a link to your image:
-   ```
+   ```diff
    ---
    title: "Banana Bread (Grandma Lonergan's)"
    date: 2020-07-18
@@ -70,13 +70,13 @@ To add an image do the following:
      "breakfast",
      "dessert",
    ]
-   images: [
-     "/recipes/images/my_image.jpg
-   ]
+   + images: [
+   +   "/recipes/images/my_image.jpg
+   + ]
     ---
    ```
 3. (optional) You can set the `featured_image` field to one of your images to have it appear at the top of the page
-   ```
+   ```diff
    ---
    title: "Banana Bread (Grandma Lonergan's)"
    date: 2020-07-18
@@ -91,6 +91,6 @@ To add an image do the following:
    images: [
      "/recipes/images/my_image.jpg
    ]
-   featured_image: "/recipes/images/my_image.jpg"
+   + featured_image: "/recipes/images/my_image.jpg"
    ---
    ```
