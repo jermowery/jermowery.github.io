@@ -75,3 +75,22 @@ To add an image do the following:
    ]
     ---
    ```
+3. (optional) You can set the `featured_image` field to one of your images to have it appear at the top of the page
+   ```
+   ---
+   title: "Banana Bread (Grandma Lonergan's)"
+   date: 2020-07-18
+   author: Matt Johnson
+   description: "A cherished family banana bread recipe"
+   tags: [
+     "bread",
+     "family",
+     "breakfast",
+     "dessert",
+   ]
+   images: [
+     "/recipes/images/my_image.jpg
+   ]
+   featured_image: "/recipes/images/my_image.jpg"
+   ---
+   ```
