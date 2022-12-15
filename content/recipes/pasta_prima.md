@@ -1,26 +1,26 @@
 ---
 title: "Pasta primavera"
 tags:
-      - dinner
-      - lunch
+  - dinner
+  - lunch
 ---
 
 ## Notes
 
-* This is my absolute favorite recipe and a staple of my diet. I've made it my own over the years; feel free to do the same!
-* The original recipe called for peeling the tomatoes, and left everything to marinate for an hour before the garlic was removed. I've removed these steps, but the order of operations in this recipe is designed to allow for maximum marination. However, these are guidelines, not rules--nothing will be ruined if your prep timing lines up differently than the recipe calls for.
-* One of the great things in this dish is the thermal contrast when you serve it fresh--if possible, start with room-temperature tomatoes and fridge-temperature cheese.
-* If it is the heat of summer and you'd like to eat something that won't cause you to overheat, the best way to lower the temperature of the final dish is to use fridge-temperature tomatoes.
+- This is my absolute favorite recipe and a staple of my diet. I've made it my own over the years; feel free to do the same!
+- The original recipe called for peeling the tomatoes, and left everything to marinate for an hour before the garlic was removed. I've removed these steps, but the order of operations in this recipe is designed to allow for maximum marination. However, these are guidelines, not rules--nothing will be ruined if your prep timing lines up differently than the recipe calls for.
+- One of the great things in this dish is the thermal contrast when you serve it fresh--if possible, start with room-temperature tomatoes and fridge-temperature cheese.
+- If it is the heat of summer and you'd like to eat something that won't cause you to overheat, the best way to lower the temperature of the final dish is to use fridge-temperature tomatoes.
 
 ## Ingredients
 
-* Tomatoes, medium dice (6 beefsteak tomatoes, or more if they're smaller)
-* Fresh basil, 3-4 stalks
-* Fresh mozzarella, 16 oz
-* 4 cloves garlic (NOT crushed)
-* Olive oil
-* Salt, to taste
-* Penne pasta, 1 pack
+- Tomatoes, medium dice (6 beefsteak tomatoes, or more if they're smaller)
+- Fresh basil, 3-4 stalks
+- Fresh mozzarella, 16 oz
+- 4 cloves garlic (NOT crushed)
+- Olive oil
+- Salt, to taste
+- Penne pasta, 1 pack
 
 ## Instructions
 

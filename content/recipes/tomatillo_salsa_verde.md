@@ -11,19 +11,19 @@ description: "Mexican green salsa with roasted tomatillos, chile peppers, lime j
 
 ## Equipment
 
-* Pan for broiling tomatillos (can also just use regular baking sheet)
-* Foil for pan to make cleanup easier
-* Blender and/or food processor for combining ingredients
+- Pan for broiling tomatillos (can also just use regular baking sheet)
+- Foil for pan to make cleanup easier
+- Blender and/or food processor for combining ingredients
 
 ## Ingredients
 
-* 1.5 pounds tomatillos
-* 1/2 cup chopped white onion
-* 1 clove (or more) garlic, crushed (optional)
-* 1/2 cup chopped cilantro leaves and stems
-* 1 lime (juice)
-* 2-3 jalapeño or serrano peppers, (I use 3 whole serrano peppers, but you can also remove seeds if you want it less spicy)
-* Salt to taste (1/2 tsp?)
+- 1.5 pounds tomatillos
+- 1/2 cup chopped white onion
+- 1 clove (or more) garlic, crushed (optional)
+- 1/2 cup chopped cilantro leaves and stems
+- 1 lime (juice)
+- 2-3 jalapeño or serrano peppers, (I use 3 whole serrano peppers, but you can also remove seeds if you want it less spicy)
+- Salt to taste (1/2 tsp?)
 
 ## Instructions
 

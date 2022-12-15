@@ -4,26 +4,21 @@ date: 2020-11-15
 draft: false
 author: Regina Souza
 description: "Delicious spiced green beans"
-tags: [
-    "lunch",
-    "dinner",
-]
-categories: [
-    "recipes",
-    ]
+tags: ["lunch", "dinner"]
+categories: ["recipes"]
 ---
 
 # Ingredients
 
 The ingredients below do not have quantities. Use amounts that you find tasty
 
-* Minced garlic (to taste)
-* Red pepper flakes (to taste)
-* (optional) toasted sesame seeds
-* Extra virgin olive oil
-* Sesame oil (a little goes a long way)
-* Green beans
-* Soy sauce (diluted in water so it's not so strong)
+- Minced garlic (to taste)
+- Red pepper flakes (to taste)
+- (optional) toasted sesame seeds
+- Extra virgin olive oil
+- Sesame oil (a little goes a long way)
+- Green beans
+- Soy sauce (diluted in water so it's not so strong)
 
 # Instructions
 

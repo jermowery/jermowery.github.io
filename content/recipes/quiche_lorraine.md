@@ -3,31 +3,31 @@ title: Quiche Lorraine
 description: Delicious Quiche
 author: Laura and her ancestors
 tags:
-    - dinner
-    - lunch
+  - dinner
+  - lunch
 images:
-      - "/recipes/images/quiche.jpg"
+  - "/recipes/images/quiche.jpg"
 ---
 
 # Notes
 
-* Designed to feed 4 people
-* This is designed for a pan that is not the American standard. For an American pan use only 3/4 of the ingredients below
-* Gouda or Beemster Vlaskaas Cow's Milk Cheese can be used as a substitute for Edamer
+- Designed to feed 4 people
+- This is designed for a pan that is not the American standard. For an American pan use only 3/4 of the ingredients below
+- Gouda or Beemster Vlaskaas Cow's Milk Cheese can be used as a substitute for Edamer
 
 # Ingredients
 
-* 200g (2.013c) flour
-* 100g (6.972 Tbsp) butter
-* 1/2 tsp salt
-* 5 Tbsp water
-* Butter to grease a springform pan
-* 200g (7.055 oz) cooked ham
-* 4 eggs
-* 1/3L (1.057c) heavy whipping cream
-* 1/2 tsp white pepper
-* 1/2 tsp salt
-* 125g (4.409 oz) grated Edamer cheese (can use more if necessary)
+- 200g (2.013c) flour
+- 100g (6.972 Tbsp) butter
+- 1/2 tsp salt
+- 5 Tbsp water
+- Butter to grease a springform pan
+- 200g (7.055 oz) cooked ham
+- 4 eggs
+- 1/3L (1.057c) heavy whipping cream
+- 1/2 tsp white pepper
+- 1/2 tsp salt
+- 125g (4.409 oz) grated Edamer cheese (can use more if necessary)
 
 # Instructions
 

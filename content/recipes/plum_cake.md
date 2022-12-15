@@ -1,45 +1,45 @@
 ---
 title: Plum Cake (Pflaumenkuchen)
 images:
-      - "/recipes/images/plum_cake_1.jpg"
+  - "/recipes/images/plum_cake_1.jpg"
 tags:
-      - dessert
-      - breakfast
+  - dessert
+  - breakfast
 ---
 
 ## Notes:
 
-* For historical reasons this is named "Plum Cake" but it is actually a pie.
-* This is our version of Pflaumenkuchen.
+- For historical reasons this is named "Plum Cake" but it is actually a pie.
+- This is our version of Pflaumenkuchen.
 
 ## Ingredients
 
 ### Wet ingredients
 
-* 1 stick butter (1/2 cup)
-* 1 egg
-* 2/3c sugar
+- 1 stick butter (1/2 cup)
+- 1 egg
+- 2/3c sugar
 
 ### Dry ingredients
 
-* 1 1/2c flour
-* 1/2 Tbsp baking powder
-* 1 pinch salt
-* 1/2 cinnamon
+- 1 1/2c flour
+- 1/2 Tbsp baking powder
+- 1 pinch salt
+- 1/2 cinnamon
 
 ### Plums
 
-* 1.5 lbs italian plums, halved
+- 1.5 lbs italian plums, halved
 
 ### The topping
 
-* 1 tsp cinnamon
-* 1/4c hazelnuts
-* (After baking, optional) 1 Tbsp cane sugar
+- 1 tsp cinnamon
+- 1/4c hazelnuts
+- (After baking, optional) 1 Tbsp cane sugar
 
 ## Instructions
 
-1. Preheat oven to 375*F.
+1. Preheat oven to 375\*F.
 1. Grease pie tin with the butter stick.
 1. Process all the wet ingredients (including sugar) in a food processor.
 1. Mix all the dry ingredients in a bowl.

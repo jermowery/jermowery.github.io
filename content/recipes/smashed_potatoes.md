@@ -1,9 +1,9 @@
 ---
 title: Smashed Potatoes
-tags: 
-      - lunch
-      - dinner
-      - unfinished
+tags:
+  - lunch
+  - dinner
+  - unfinished
 ---
 
 [Original](https://www.bonappetit.com/recipe/crispy-smashed-potatoes-with-walnut-dressing)
@@ -12,19 +12,18 @@ tags:
 
 TODO(laura): Make this recipe reasonable
 
-* 2 lb. new or other small waxy potatoes
-* 1 cup Diamond Crystal or ½ cup Morton kosher salt, plus more
-* ⅔ cup extra-virgin olive oil, divided
-* Freshly ground black pepper
-* ½ cup walnuts, coarsely chopped
-* 2 oil-packed anchovy fillets, drained
-* 1 garlic clove
-* 3 Tbsp. golden raisins
-* 4 tsp. Aleppo-style or other mild red pepper flakes
-* ¾ cup sour cream
-* ½ cup mixed tender herbs, such as parsley, dill, cilantro, and/or basil
-* Lemon wedges (for serving)
-
+- 2 lb. new or other small waxy potatoes
+- 1 cup Diamond Crystal or ½ cup Morton kosher salt, plus more
+- ⅔ cup extra-virgin olive oil, divided
+- Freshly ground black pepper
+- ½ cup walnuts, coarsely chopped
+- 2 oil-packed anchovy fillets, drained
+- 1 garlic clove
+- 3 Tbsp. golden raisins
+- 4 tsp. Aleppo-style or other mild red pepper flakes
+- ¾ cup sour cream
+- ½ cup mixed tender herbs, such as parsley, dill, cilantro, and/or basil
+- Lemon wedges (for serving)
 
 ## Instructions
 

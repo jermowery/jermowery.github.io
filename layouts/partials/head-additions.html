@@ -1,12 +1,24 @@
 {{ template "_internal/google_analytics.html" . }}
-<meta name="theme-color" content="#5e2ca5">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="manifest" href="/manifest.webmanifest">
-<link rel="apple-touch-icon" href="/maskable_icon_192.png">
+<meta name="theme-color" content="#5e2ca5" />
+<meta
+  name="apple-mobile-web-app-status-bar-style"
+  content="black-translucent"
+/>
+<link rel="manifest" href="/manifest.webmanifest" />
+<link rel="apple-touch-icon" href="/maskable_icon_192.png" />
 <script type="module" defer>
-if (navigator.serviceWorker) {
-    navigator.serviceWorker.register(`/sw.js`, {scope: '/'});
-}
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register(`/sw.js`, { scope: "/" });
+  }
 </script>
-<link rel="preload" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"></noscript>
+<link
+  rel="preload"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"
+  as="style"
+  onload="this.onload=null;this.rel='stylesheet'"
+/>
+<noscript
+  ><link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"
+/></noscript>

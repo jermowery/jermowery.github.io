@@ -10,14 +10,14 @@
 
 ## Notes
 
-* This recipe makes 2 8-inch pies or 1 9-inch pie.
+- This recipe makes 2 8-inch pies or 1 9-inch pie.
 
 ## Ingredients
 
-* 1.5 cups of graham crackers
-* 6 tbsp butter
-* 1/3 cup sugar
-* Ingredients for [Lime Mousse](lime_mousse.html)
+- 1.5 cups of graham crackers
+- 6 tbsp butter
+- 1/3 cup sugar
+- Ingredients for [Lime Mousse](lime_mousse.html)
 
 ## Instructions
 

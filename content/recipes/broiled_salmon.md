@@ -4,22 +4,22 @@ date: 2022-04-10
 author: Regina Souza
 description: "Adapted from a Flank Steak Recipe by Julia Child"
 
-tags: 
-   - lunch
-   - dinner
+tags:
+  - lunch
+  - dinner
 ---
 
 ## The Marinade
 
-* 3 Tb minced onions (or scallions, or shallots) 
-* 1 1/2 Tb soy sauce 
-* 2 Tb olive oil 
-* 1/2 tsp rosemary (ground rosemary) 
-* 1 Tb rosemary to sprinkle
-* Big pinch pepper or drops of Tabasco 
-* Black pepper (optional)
-* The juice of 1/2 lemon 
-* A broiling pan
+- 3 Tb minced onions (or scallions, or shallots)
+- 1 1/2 Tb soy sauce
+- 2 Tb olive oil
+- 1/2 tsp rosemary (ground rosemary)
+- 1 Tb rosemary to sprinkle
+- Big pinch pepper or drops of Tabasco
+- Black pepper (optional)
+- The juice of 1/2 lemon
+- A broiling pan
 
 ## Instructions
 
@@ -27,4 +27,4 @@ Mix the marinade ingredients in a bowl (I run it through the food processor). La
 
 ## Broiling
 
-This will take only 15 minutes in all.  Set the salmon, just as it is, not too close under hot broiler. No need to turn. I usually take it out when the onion is caramelized; serve immediately.
+This will take only 15 minutes in all. Set the salmon, just as it is, not too close under hot broiler. No need to turn. I usually take it out when the onion is caramelized; serve immediately.

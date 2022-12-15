@@ -2,26 +2,26 @@
 title: "Cheese bread (pão de queijo)"
 description: "A Brazilian delicacy"
 tags:
-      - snack
+  - snack
 author: Regina Souza
 ---
 
 ## Equipment
 
-* Mini Muffin tins
+- Mini Muffin tins
 
 ## Notes
 
-* When using a shitty blender make 2/3
+- When using a shitty blender make 2/3
 
 ## Ingredients
 
-* 3 eggs
-* 1 cup oil (bland)
-* 1 cup milk
-* 1/2 tablespoon salt
-* 1.5 cups parmesan cheese
-* 3 cups tapioca flour
+- 3 eggs
+- 1 cup oil (bland)
+- 1 cup milk
+- 1/2 tablespoon salt
+- 1.5 cups parmesan cheese
+- 3 cups tapioca flour
 
 ## Instructions
 

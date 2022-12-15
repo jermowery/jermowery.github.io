@@ -1,7 +1,7 @@
 ---
 title: "Ma' Johnson's Fresh Blueberry Pie"
 tags:
-      - dessert
+  - dessert
 ---
 
 See original at [matt9j.net/recipes/blueberry-pie](https://matt9j.net/recipes/blueberry-pie)
@@ -13,8 +13,8 @@ You can make it as a traditional pie with a top crust, but **the real
 magic is when you replace the top crust with the optional streusel
 topping detailed below.**
 
-Pie Instructions
-----------------
+## Pie Instructions
+
 1. Preheat oven to 425F.
 2. Prepare pie crust.
 3. In large bowl, combine blueberries, sugar, flour and cinnamon; toss
@@ -28,25 +28,27 @@ Pie Instructions
    through slits in crust.
 
 ### 9-Inch
-* 4 cups fresh blueberries
-* ½ cup sugar
-* 4 tablespoons flour
-* 1/8 teaspoon cinnamon, if desired (omit if using streusel topping)
-* 2 teaspoons lemon juice
-* 2 tablespoon butter (omit if using streusel topping)
+
+- 4 cups fresh blueberries
+- ½ cup sugar
+- 4 tablespoons flour
+- 1/8 teaspoon cinnamon, if desired (omit if using streusel topping)
+- 2 teaspoons lemon juice
+- 2 tablespoon butter (omit if using streusel topping)
 
 ### 8-Inch
-* 3 cups fresh blueberries
-* ½ cup sugar
-* 3 tablespoons flour
-* 1/8 teaspoon cinnamon, if desired (omit if using streusel topping)
-* 1 ½ teaspoons lemon juice
-* 1 tablespoon butter (omit if using streusel topping)
+
+- 3 cups fresh blueberries
+- ½ cup sugar
+- 3 tablespoons flour
+- 1/8 teaspoon cinnamon, if desired (omit if using streusel topping)
+- 1 ½ teaspoons lemon juice
+- 1 tablespoon butter (omit if using streusel topping)
 
 ---
 
-Streusel Topping Instructions
------------------------------
+## Streusel Topping Instructions
+
 1. In small bowl, combine all ingredients until crumbly.
 2. Sprinkle over fruit filled pie.
 3. Bake as directed in fruit filling recipe.
@@ -54,8 +56,9 @@ Streusel Topping Instructions
    quickly.
 
 ### Ingredients
-* 1 cup flour
-* ½ cup firmly packed brown sugar
-* ½ cinnamon
-* ½ cup butter
-* Pecans
+
+- 1 cup flour
+- ½ cup firmly packed brown sugar
+- ½ cinnamon
+- ½ cup butter
+- Pecans

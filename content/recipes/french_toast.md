@@ -13,18 +13,18 @@ This recipe involves leaving the bread in the fridge overnight, plan accordingly
 
 ## Equipment
 
-* Requires a large pan (10x15)
+- Requires a large pan (10x15)
 
 ## Ingredients
 
-* 6 Le Petit Outre Kaiser Rolls (top and bottom crust removed)
-* 6 eggs
-* 2 cups of milk
-* 3/8 cup sugar
-* 1/2 tsp salt
-* 1 Tbsp Vanilla
-* 2 Tbsp Butter (cut into thin slices) 
-* Cinnamon (to taste)
+- 6 Le Petit Outre Kaiser Rolls (top and bottom crust removed)
+- 6 eggs
+- 2 cups of milk
+- 3/8 cup sugar
+- 1/2 tsp salt
+- 1 Tbsp Vanilla
+- 2 Tbsp Butter (cut into thin slices)
+- Cinnamon (to taste)
 
 ## Instructions
 
@@ -36,5 +36,3 @@ This recipe involves leaving the bread in the fridge overnight, plan accordingly
 6. Sprinkle Cinnamon
 7. Put thin slices of butter on top
 8. Bake for about 40 minutes (to an hour) on 350 F (325 F if on a glass dish)
-
-

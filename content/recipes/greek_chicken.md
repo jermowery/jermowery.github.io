@@ -1,21 +1,21 @@
 ---
 title: "Greek chicken"
-tags: 
-      - lunch
-      - dinner
+tags:
+  - lunch
+  - dinner
 ---
 
 ## Notes
 
-* This recipe calls for chicken breast, but it can also be made with boneless skinless chicken thigh. Cooking the chicken breast can be a little tricky, and will end up a bit dry if you do it wrong. Chicken thigh is more forgiving.
+- This recipe calls for chicken breast, but it can also be made with boneless skinless chicken thigh. Cooking the chicken breast can be a little tricky, and will end up a bit dry if you do it wrong. Chicken thigh is more forgiving.
 
 ## Ingredients
 
-* 2 lbs chicken breast
-* 1 Tbsp dried oregano
-* Salt to taste (maybe 2 tsp?)
-* 2 large or 4 medium cloves garlic, crushed
-* Olive oil
+- 2 lbs chicken breast
+- 1 Tbsp dried oregano
+- Salt to taste (maybe 2 tsp?)
+- 2 large or 4 medium cloves garlic, crushed
+- Olive oil
 
 ## Instructions
 

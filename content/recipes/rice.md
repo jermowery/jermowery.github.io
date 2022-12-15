@@ -2,22 +2,22 @@
 title: The one true rice
 description: Rice but the only correct way to make it
 tags:
-      - dinner
-      - lunch
+  - dinner
+  - lunch
 ---
 
 ## Notes
 
-* 1 cup of dry rice is probably 4 person-meals, give or take a person-meal. 
+- 1 cup of dry rice is probably 4 person-meals, give or take a person-meal.
 
 ## Ingredients
 
-* X cups dry rice
-* 2X cups water
-* X/2 diced onions (potentially down to X/4 if it's a really large onion) (medium-small dice)
-* Oil (either olive oil or something flavorless, like canola)
-* Salt, to taste
-* (optional) Grated carrots, frozen peas, frozen corn, or other small vegetables. The amount doesn't matter too much but maybe X/2 cups.
+- X cups dry rice
+- 2X cups water
+- X/2 diced onions (potentially down to X/4 if it's a really large onion) (medium-small dice)
+- Oil (either olive oil or something flavorless, like canola)
+- Salt, to taste
+- (optional) Grated carrots, frozen peas, frozen corn, or other small vegetables. The amount doesn't matter too much but maybe X/2 cups.
 
 ## Instructions
 
@@ -26,7 +26,7 @@ tags:
 2. Add the rice, and saute for a few more minutes. It's good if the rice toasts a bit, but you don't want the rice to burn.
 3. Add the water, and salt to taste. You can check the salt content by trying a spoonful of the water.
 4. (optional) Add the optional vegetables.
-5. Cover the pot with a lid. Once the water boils, turn the heat to low. 
+5. Cover the pot with a lid. Once the water boils, turn the heat to low.
    - If you pre-boiled the water, this will happen almost immediately.
    - If you're using a stove that's slow to change temperature, you might need to change to a different/smaller burner.
 6. For white rice, set a 20 minute timer; for brown rice, a 50 minute timer.

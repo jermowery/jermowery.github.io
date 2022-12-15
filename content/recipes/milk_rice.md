@@ -4,24 +4,19 @@ date: 2021-10-22
 draft: false
 author: Laura Vonessen & Anna Vonessen & Regina Souza
 description: "Rice but milk but still rice"
-tags: [
-    "dinner",
-    "dessert"
-]
-categories: [
-    "recipes",
-    ]
+tags: ["dinner", "dessert"]
+categories: ["recipes"]
 ---
 
 ## Ingredients
 
-* 1 cup rice
-* 4 cups water
-* 2-3 whole cloves
-* 1/2 cup sugar (optional)
-* Cinnamon to taste (optional)
-* 4 cups milk
-* 1 can sweetened condensed milk
+- 1 cup rice
+- 4 cups water
+- 2-3 whole cloves
+- 1/2 cup sugar (optional)
+- Cinnamon to taste (optional)
+- 4 cups milk
+- 1 can sweetened condensed milk
 
 ## Instructions
 

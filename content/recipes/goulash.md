@@ -4,13 +4,8 @@ date: 2021-01-29
 draft: false
 author: Regina Vonessen
 description: "Delicious goulash"
-tags: [
-    "lunch",
-    "dinner",
-]
-categories: [
-    "recipes",
-    ]
+tags: ["lunch", "dinner"]
+categories: ["recipes"]
 ---
 
 [Original](https://www.bigoven.com/recipe/june-meyers-authentic-hungarian-goulash-gulyas-leves/102931)
@@ -19,22 +14,21 @@ categories: [
 
 ### Broth
 
-* 2 lb Beef chuck
-* 1 ts Salt
-* 4 potatoes; Peeled and diced
-* 2 Tbsp paprika
-* 2 Tbsp olive oil
-* 1/4 ts Black pepper
-* 2 Bay Leaves
-* 1 qt Water
-* 2 onions
+- 2 lb Beef chuck
+- 1 ts Salt
+- 4 potatoes; Peeled and diced
+- 2 Tbsp paprika
+- 2 Tbsp olive oil
+- 1/4 ts Black pepper
+- 2 Bay Leaves
+- 1 qt Water
+- 2 onions
 
 ### Egg dumpling batter
 
-* 1 Egg
-* 6 tb Flour
-* 1/8 tsp Salt
-
+- 1 Egg
+- 6 tb Flour
+- 1/8 tsp Salt
 
 ## Instructions
 
@@ -54,4 +48,4 @@ categories: [
 ### Combine
 
 1.  Drop by dumpling batter by teaspoonful into Goulash.
-4.  Cover and simmer 5 minutes after dumplings rise to surface
+2.  Cover and simmer 5 minutes after dumplings rise to surface

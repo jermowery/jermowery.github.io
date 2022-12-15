@@ -1,12 +1,6 @@
 {{ define "main" }}
 
 <ul id="results">
-    <li>
-        Enter a keyword above to search this site.
-    </li>
+  <li>Enter a keyword above to search this site.</li>
 </ul>
-{{ end }}
-
-{{ define "footer" }}
-{{ partial "search-index.html" . }}
-{{ end }}
+{{ end }} {{ define "footer" }} {{ partial "search-index.html" . }} {{ end }}

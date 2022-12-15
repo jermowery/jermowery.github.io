@@ -1,7 +1,7 @@
 ---
 title: Cobbler
 tags:
-      - dessert
+  - dessert
 ---
 
 [Original](https://www.tasteslovely.com/triple-berry-crumble-made-with-frozen-fruit/print/5684/)
@@ -10,18 +10,18 @@ tags:
 
 ### Filling
 
-* 4 cups frozen mixed berries*, NOT thawed (about 24 ounces frozen fruit)
-* 3 tablespoons granulated sugar
-* 3 tablespoons all purpose flour
-* zest from 1/2 lemon
-* pinch of salt
+- 4 cups frozen mixed berries\*, NOT thawed (about 24 ounces frozen fruit)
+- 3 tablespoons granulated sugar
+- 3 tablespoons all purpose flour
+- zest from 1/2 lemon
+- pinch of salt
 
 ### Topping
 
-* 1 cup old fashioned rolled oats
-* 1/2 cup brown sugar
-* 6 tablespoons all purpose flour
-* 1 stick (1/2 cup) salted butter, cold, cut into small cubes
+- 1 cup old fashioned rolled oats
+- 1/2 cup brown sugar
+- 6 tablespoons all purpose flour
+- 1 stick (1/2 cup) salted butter, cold, cut into small cubes
 
 ## Instructions
 

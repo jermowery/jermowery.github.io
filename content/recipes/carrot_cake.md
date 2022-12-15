@@ -2,41 +2,41 @@
 title: "Carrot Cake"
 author: Jeremy Mowery
 tags:
-      - dessert
+  - dessert
 images:
-      - "/recipes/images/carrot_cake.webp"
+  - "/recipes/images/carrot_cake.webp"
 ---
 
 [Original](https://www.inspiredtaste.net/25753/carrot-cake-recipe/itr_print/)
 
 ## Equipment
 
-* Stand mixer
-* 2 9 inch round cake pans
+- Stand mixer
+- 2 9 inch round cake pans
 
 ## Ingredients
 
 ### Carrot Cake
 
-* 2 cups (250 grams) all-purpose flour
-* 2 teaspoons baking soda
-* 1/2 teaspoon fine sea salt
-* 1 tablespoon ground cinnamon
-* 1 1/4 cups (295 ml) canola or other vegetable oil
-* 1 cup (200 grams) granulated sugar
-* 1 cup (200 grams) lightly packed brown sugar
-* 1 teaspoon vanilla extract
-* 4 large eggs
-* 3 cups (300 grams) grated peeled carrots (5 to 6 medium carrots)
-* 1 cup (100 grams) coarsely chopped pecans
-* 1/2 cup (65 grams) raisins
+- 2 cups (250 grams) all-purpose flour
+- 2 teaspoons baking soda
+- 1/2 teaspoon fine sea salt
+- 1 tablespoon ground cinnamon
+- 1 1/4 cups (295 ml) canola or other vegetable oil
+- 1 cup (200 grams) granulated sugar
+- 1 cup (200 grams) lightly packed brown sugar
+- 1 teaspoon vanilla extract
+- 4 large eggs
+- 3 cups (300 grams) grated peeled carrots (5 to 6 medium carrots)
+- 1 cup (100 grams) coarsely chopped pecans
+- 1/2 cup (65 grams) raisins
 
 ### Frosting
 
-* 8 ounces (225 grams) cream cheese, at room temperature
-* 1 1/4 cups (140 grams) powdered sugar
-* 1/3 cup (80 ml) heavy whipping cream
-* 1/2 cup (50 grams) coarsely chopped pecans, for topping cake
+- 8 ounces (225 grams) cream cheese, at room temperature
+- 1 1/4 cups (140 grams) powdered sugar
+- 1/3 cup (80 ml) heavy whipping cream
+- 1/2 cup (50 grams) coarsely chopped pecans, for topping cake
 
 ## Instructions
 
