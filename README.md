@@ -71,7 +71,7 @@ To add an image do the following:
      "dessert",
    ]
    images: [
-     "../images/my_image.jpg
+     "/recipes/images/my_image.jpg
    ]
     ---
    ```

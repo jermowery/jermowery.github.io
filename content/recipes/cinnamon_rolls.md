@@ -1,8 +1,8 @@
 ---
 title: "Cinnamon Rolls"
 images:
-  - "../images/cr_1.jpg"
-  - "../images/cr_2.jpg"
+  - "/recipes/images/cr_1.webp"
+  - "/recipes/images/cr_2.webp"
 tags:
   - dessert
 description: "Cinnamon Rolls"
