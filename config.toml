@@ -5,6 +5,7 @@ theme = ['hugo-notice', 'ananke']
 enableEmoji = true
 enableGitInfo = true
 googleAnalytics = 'UA-165281829-1'
+Paginate = 1000
 
 [params]
     show_reading_time = true
