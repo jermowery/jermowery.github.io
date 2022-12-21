@@ -6,6 +6,17 @@
   >
     <i class="material-icons">share</i>
   </button>
+  {{ if .IsPage }}
+  <div style="display: inline-block">
+    <a href="https://github.com/jermowery/jermowery.github.io/edit/main/content/{{ .File.Path }}"
+      target="_blank"
+      rel="noopener"
+      style="vertical-align: unset; color: black"
+      title="Edit on Github">
+      <i class="material-icons">edit</i>
+    </a>
+  </div>
+  {{ end }}
 </div>
 <script type="module" defer>
   const shareButton = document.querySelector("#shareButton");
