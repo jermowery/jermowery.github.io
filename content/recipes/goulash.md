@@ -2,10 +2,9 @@
 title: "Goulash"
 date: 2021-01-29
 draft: false
-author: Regina Vonessen
+author: Regina Souza
 description: "Delicious goulash"
 tags: ["lunch", "dinner"]
-categories: ["recipes"]
 ---
 
 [Original](https://www.bigoven.com/recipe/june-meyers-authentic-hungarian-goulash-gulyas-leves/102931)
