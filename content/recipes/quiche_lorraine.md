@@ -6,7 +6,7 @@ tags:
   - dinner
   - lunch
 images:
-  - "/recipes/images/quiche.jpg"
+  - "/recipes/images/quiche.webp"
 ---
 
 # Notes
@@ -46,4 +46,4 @@ images:
 
 # Pictures
 
-![Quiche](../images/quiche.jpg)
+![Quiche](../images/quiche.webp)

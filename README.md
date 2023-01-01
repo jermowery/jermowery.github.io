@@ -71,7 +71,7 @@ To add an image do the following:
      "dessert",
    ]
    + images: [
-   +   "/recipes/images/my_image.jpg
+   +   "/recipes/images/my_image.webp
    + ]
     ---
    ```
@@ -89,8 +89,8 @@ To add an image do the following:
      "dessert",
    ]
    images: [
-     "/recipes/images/my_image.jpg
+     "/recipes/images/my_image.webp
    ]
-   + featured_image: "/recipes/images/my_image.jpg"
+   + featured_image: "/recipes/images/my_image.webp"
    ---
    ```

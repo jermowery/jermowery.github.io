@@ -3,8 +3,8 @@ title: "Waffles"
 author: Laura Vonessen
 description: The one true way to make waffles
 images:
-  - "/recipes/images/waffles_1.jpg"
-featured_image: "/recipes/images/waffles_1.jpg"
+  - "/recipes/images/waffles_1.webp"
+featured_image: "/recipes/images/waffles_1.webp"
 ---
 
 Laura's waffle recipe, stolen from ancestors.
@@ -53,4 +53,4 @@ These amounts are scaled for 2 people
 
 ## Pictures
 
-![Waffles](../images/waffles_1.jpg)
+![Waffles](../images/waffles_1.webp)

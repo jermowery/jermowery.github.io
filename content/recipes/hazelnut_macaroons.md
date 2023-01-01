@@ -8,7 +8,7 @@ tags: ["dessert"]
 categories: ["recipes"]
 ---
 
-[Original recipe (in German)](../images/nussmakronen-recipe.JPEG)
+[Original recipe (in German)](../images/nussmakronen-recipe.webp)
 
 ## Ingredients
 

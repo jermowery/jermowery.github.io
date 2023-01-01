@@ -5,10 +5,10 @@ tags:
   - dinner
   - lunch
 images:
-  - "/recipes/images/bolotas_2.jpg"
+  - "/recipes/images/bolotas_2.webp"
 ---
 
-[Original](../images/bolotas.jpg)
+[Original](../images/bolotas.webp)
 
 # Ingredients
 
@@ -46,4 +46,4 @@ images:
 
 # Pictures
 
-![Bolotas](../images/bolotas_2.jpg)
+![Bolotas](../images/bolotas_2.webp)

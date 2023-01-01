@@ -1,8 +1,8 @@
 ---
 title: "Fondue"
 images:
-  - "/recipes/images/fondue_2.jpg"
-featured_image: "/recipes/images/fondue_2.jpg"
+  - "/recipes/images/fondue_2.webp"
+featured_image: "/recipes/images/fondue_2.webp"
 date: 2022-12-31
 tags:
   - dinner

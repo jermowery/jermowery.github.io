@@ -7,7 +7,7 @@ description: "Originally stolen from Matt this recipe adds Laura's unique taste.
 tags: ["breakfast", "dessert"]
 categories: ["recipes"]
 images:
-  - "/recipes/images/banana_bread_laura.jpg"
+  - "/recipes/images/banana_bread_laura.webp"
 ---
 
 <script type="application/ld+json">
@@ -16,7 +16,7 @@ images:
     "@type": "Recipe",
     "name": "Banana Bread Laura",
     "image": [
-        "/recipes/images/banana_bread_laura.jpg"
+        "/recipes/images/banana_bread_laura.webp"
     ],
     "author": {
         "@type": "Person",
@@ -53,35 +53,35 @@ images:
             "name": "Mix dry ingredients",
             "text": "In a large bowl, combine flour, sugar, baking powder, and salt.",
             "url": "https://example.com/party-coffee-cake#step2",
-            "image": "https://example.com/photos/party-coffee-cake/step2.jpg"
+            "image": "https://example.com/photos/party-coffee-cake/step2.webp"
         },
         {
             "@type": "HowToStep",
             "name": "Add wet ingredients",
             "text": "Mix in the butter, eggs, and milk.",
             "url": "https://example.com/party-coffee-cake#step3",
-            "image": "https://example.com/photos/party-coffee-cake/step3.jpg"
+            "image": "https://example.com/photos/party-coffee-cake/step3.webp"
         },
         {
             "@type": "HowToStep",
             "name": "Spread into pan",
             "text": "Spread into the prepared pan.",
             "url": "https://example.com/party-coffee-cake#step4",
-            "image": "https://example.com/photos/party-coffee-cake/step4.jpg"
+            "image": "https://example.com/photos/party-coffee-cake/step4.webp"
         },
         {
             "@type": "HowToStep",
             "name": "Bake",
             "text": "Bake for 30 to 35 minutes, or until firm.",
             "url": "https://example.com/party-coffee-cake#step5",
-            "image": "https://example.com/photos/party-coffee-cake/step5.jpg"
+            "image": "https://example.com/photos/party-coffee-cake/step5.webp"
         },
         {
             "@type": "HowToStep",
             "name": "Enjoy",
             "text": "Allow to cool and enjoy.",
             "url": "https://example.com/party-coffee-cake#step6",
-            "image": "https://example.com/photos/party-coffee-cake/step6.jpg"
+            "image": "https://example.com/photos/party-coffee-cake/step6.webp"
         }
     ]
 }
@@ -122,4 +122,4 @@ Lightly grease 9x5 loaf pan
 
 ## Pictures
 
-![Banana bread](../images/banana_bread_laura.jpg)
+![Banana bread](../images/banana_bread_laura.webp)

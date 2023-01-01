@@ -6,7 +6,7 @@ tags:
   - dinner
   - lunch
 images:
-  - "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex6/merlin_154114563_510d1c7c-f8d0-4f6f-9bf9-c0756e7619c9-articleLarge.jpg"
+  - "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex6/merlin_154114563_510d1c7c-f8d0-4f6f-9bf9-c0756e7619c9-articleLarge.webp"
 ---
 
 [Original 1](https://cooking.nytimes.com/recipes/1020210-khoresh-e-bademjoon-persian-lamb-eggplant-and-tomato-stew)

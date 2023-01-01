@@ -1,8 +1,8 @@
 ---
 title: "Fondue"
 images:
-  - "/recipes/images/fondue_2.jpg"
-featured_image: "/recipes/images/fondue_2.jpg"
+  - "/recipes/images/fondue_2.webp"
+featured_image: "/recipes/images/fondue_2.webp"
 date: 2022-02-20
 tags:
   - dinner
@@ -11,7 +11,7 @@ author: Peter Vonessen
 
 Stolen by Laura from Peter
 
-[Original](../images/fondue.jpg)
+[Original](../images/fondue.webp)
 
 ## Equipment
 
@@ -50,4 +50,4 @@ Stolen by Laura from Peter
 
 ## Pictures
 
-![Fondue](../images/fondue_2.jpg)
+![Fondue](../images/fondue_2.webp)
