@@ -2,6 +2,7 @@
 title: "Fondue"
 images:
   - "/recipes/images/fondue_2.jpg"
+featured_image: "/recipes/images/fondue_2.jpg"
 date: 2022-02-20
 tags:
   - dinner

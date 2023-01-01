@@ -2,7 +2,8 @@
 title: "Fondue"
 images:
   - "/recipes/images/fondue_2.jpg"
-date: 2022-02-20
+featured_image: "/recipes/images/fondue_2.jpg"
+date: 2022-12-31
 tags:
   - dinner
 author: Peter Vonessen
