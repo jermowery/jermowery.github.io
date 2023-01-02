@@ -31,3 +31,8 @@ enableRobotsTXT = true
 
 [markup.goldmark.renderer]
     unsafe= true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  author = "author"
