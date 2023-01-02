@@ -5,6 +5,10 @@ description: The one true way to make waffles
 images:
   - "/recipes/images/waffles_1.webp"
 featured_image: "/recipes/images/waffles_1.webp"
+tags:
+  - breakfast
+  - snack
+  - family
 ---
 
 Laura's waffle recipe, stolen from ancestors.
