@@ -9,26 +9,28 @@ tags: ["breakfast", "dessert"]
 
 ## Ingredients
 
+{{< scale-input defaultValue="1" label="Number of recipes: ">}}
+
 ### Crust
 
-- <span class="unit">2</span> cups finely ground graham crackers (about 30 squares)
-- <span class="unit">1/2</span> teaspoon ground cinnamon
-- <span class="unit">1</span> stick unsalted butter, melted
+- {{< scalable-unit defaultValue="2" >}} cups finely ground graham crackers (about 30 squares)
+- {{< scalable-unit defaultValue="1/2" >}} teaspoon ground cinnamon
+- {{< scalable-unit defaultValue="1" >}} stick unsalted butter, melted
 
 ### Filling
 
-- <span class="unit">1</span> pound cream cheese, softened
-- <span class="unit">3</span> eggs
-- <span class="unit">1</span> cup sugar
-- <span class="unit">1</span> pint sour cream
-- <span class="unit">1</span> lemon, zested
-- <span class="unit">1</span> dash vanilla extract
+- {{< scalable-unit defaultValue="1" >}} pound cream cheese, softened
+- {{< scalable-unit defaultValue="3" >}} eggs
+- {{< scalable-unit defaultValue="1" >}} cup sugar
+- {{< scalable-unit defaultValue="1" >}} pint sour cream
+- {{< scalable-unit defaultValue="1" >}} lemon, zested
+- {{< scalable-unit defaultValue="1" >}} dash vanilla extract
 
 ### Warm Lemon Blueberries
 
-- <span class="unit">1</span> pint blueberries
-- <span class="unit">1</span> lemon, zested and juiced
-- <span class="unit">2</span> tablespoons sugar
+- {{< scalable-unit defaultValue="1" >}} pint blueberries
+- {{< scalable-unit defaultValue="1" >}} lemon, zested and juiced
+- {{< scalable-unit defaultValue="2" >}} tablespoons sugar
 
 ## Instructions
 

@@ -25,19 +25,17 @@ If feeding more people double or triple the amounts below.
 
 ## Ingredients
 
-{{< notice >}}
-These amounts are scaled for 2 people
-{{< /notice >}}
+{{< scale-input defaultValue="2" >}}
 
 ### Waffle batter
 
-- <span class="unit">1/2</span> stick butter
-- <span class="unit">2</span> eggs
-- <span class="unit">1</span> pinch salt
-- <span class="unit">1/4</span> cup sugar
-- <span class="unit">3/4</span> cup oats
-- <span class="unit">3/4</span> cup flour
-- <span class="unit">1</span> cup milk (to right consistency)
+- {{< scalable-unit defaultValue="1/2" >}} stick butter
+- {{< scalable-unit defaultValue="2" >}} eggs
+- {{< scalable-unit defaultValue="1" >}} pinch salt
+- {{< scalable-unit defaultValue="1/4" >}} cup sugar
+- {{< scalable-unit defaultValue="3/4" >}} cup oats
+- {{< scalable-unit defaultValue="3/4" >}} cup flour
+- {{< scalable-unit defaultValue="1" >}} cup milk (to right consistency)
 
 ### Mandated toppings
 

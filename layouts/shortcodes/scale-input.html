@@ -1,0 +1,38 @@
+<script defer>
+    function onMathJsLoad() {
+        const servingFactorElement = document.getElementById("servingFactor");
+        if (!servingFactorElement) {
+            return;
+        }
+        math.config({
+            number: 'Fraction',
+        });
+        const intendedServingFactor = servingFactorElement.valueAsNumber;
+        const elementsAndOriginalValues =
+            Array.from(document.querySelectorAll("span.unit"))
+                .map(unitElement => {
+                    return {
+                        unitElement,
+                        quantity: math.fraction(unitElement.textContent),
+                    }
+                })
+
+        servingFactorElement.addEventListener("change", () => {
+            const newServingFactor = servingFactorElement.valueAsNumber;
+            const servingFactor = math.fraction(newServingFactor, intendedServingFactor);
+            const unitElements = document.querySelectorAll("span.unit");
+            for (const { unitElement, quantity } of elementsAndOriginalValues) {
+                const scaledUnit = math.multiply(quantity, servingFactor);
+                let formattedScaledUnit = math.format(scaledUnit).replace(/^(.*)\/1$/, "$1");
+                unitElement.textContent = formattedScaledUnit;
+            }
+        });
+    }
+</script>
+<script defer onload="onMathJsLoad()" src="https://unpkg.com/mathjs@8.0.1/lib/browser/math.js"></script>
+
+<label for="servingFactor">
+    {{ if .Get "label" }}{{ .Get "label" }}{{ else }}Number of people eating: {{ end }}
+</label>
+<input type="number" value='{{ if .Get "defaultValue" }}{{ .Get "defaultValue" }}{{ else }}2{{ end }}'
+    id="servingFactor" name="servingFactor" min="1">
