@@ -4,7 +4,8 @@ author: Laura Vonessen
 description: The one true way to make waffles
 images:
   - "/recipes/images/waffles_1.webp"
-featured_image: "/recipes/images/waffles_1.webp"
+  - "/recipes/images/waffles_2.webp"
+featured_image: "/recipes/images/waffles_2.webp"
 tags:
   - breakfast
   - snack
@@ -58,3 +59,4 @@ These amounts are scaled for 2 people
 ## Pictures
 
 ![Waffles](../images/waffles_1.webp)
+![Waffles](../images/waffles_2.webp)
