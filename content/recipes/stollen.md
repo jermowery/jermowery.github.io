@@ -20,13 +20,13 @@ tags: ["dessert", "breakfast", "stollen"]
 - 1/2 tsp baking powder
 - 1 1/2 tsp dry yeast
 
-## Fruit
+## Fruit and nuts
 
 - 1/2 cup golden raisins
 - 1/2 cup (3/4 cup) slivered almonds
 - 1/2 cup [candied fruit](../candied_orange_and_lemon_peel)
-- finely shredded lemon peel (optional)
-- finely shredded orange peel (optional)
+- lemon zest (finely shredded peel) (optional)
+- orange zest (finely shredded peel) (optional)
 
 ## Instructions
 
