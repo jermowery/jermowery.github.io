@@ -41,5 +41,3 @@ If you find your candied citrus peel gets hard after a while don't worry - they 
 {{< notice >}}
 To keep the candied peels even softer you can limit the drying time, skip the final sugar coating step and put the peels in a ziplock bag and either refrigerate or freeze them.
 {{< /notice >}}
-
-Link:
