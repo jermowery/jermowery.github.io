@@ -20,7 +20,7 @@ tags: ["dessert", "breakfast", "stollen"]
 - 1/2 tsp baking powder
 - 1 1/2 tsp dry yeast
 
-## Fruit and nuts
+### Fruit and nuts
 
 - 1/2 cup golden raisins
 - 1/2 cup (3/4 cup) slivered almonds
