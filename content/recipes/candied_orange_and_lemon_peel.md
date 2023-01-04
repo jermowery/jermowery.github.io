@@ -4,7 +4,7 @@ date: 2023-01-04
 draft: false
 author: Regina Souza
 description: "Candied fruit for stollen"
-tags: ["dessert", "breakfast"]
+tags: ["dessert", "breakfast", "stollen"]
 ---
 
 [Original](https://www.daringgourmet.com/how-to-make-candied-orange-and-lemon-peel/)
