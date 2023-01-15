@@ -5,6 +5,7 @@ author: Samin Nosrat / Homa of Persian Mama / Laura
 tags:
   - dinner
   - lunch
+  - soup
 images:
   - "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex6/merlin_154114563_510d1c7c-f8d0-4f6f-9bf9-c0756e7619c9-articleLarge.webp"
 ---
