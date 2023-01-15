@@ -3,6 +3,7 @@ title: "Hungarian Mushroom Soup"
 date: 2022-10-30
 tags:
   - dinner
+  - soup
 author: The Modern Proper, with adjustments by connect_the_stars and Laura Vonessen
 description: "Creamy, pungent, satisfying Hungarian mushroom soup"
 ---
