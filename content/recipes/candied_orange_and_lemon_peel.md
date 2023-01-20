@@ -27,7 +27,7 @@ Yields approximately 8 ounces of candied citrus peel depending on peel thickness
 ## Instructions
 
 1. Slice both ends of the citrus fruits. Cut the peel on each each into 4 or more vertical segments, depending on the size of the fruit. Peel off each segment of rind. (You can remove a little of the white pith, though not necessary. The pith is bitter but the blanching process below will help reduce the bitterness. Note that if you remove the white pith, the thinner the peels are the harder and more leathery they will be when they’re candied.) Slice the peels into 1/4 inch wide strips. (Keep the peeled citrus for eating, cooking, juicing, etc)
-2. Boil the peels in a pot of water for 15 minutes. Drain the peels in a colander, rinse and then drain again. Discard the water from the pot.
+2. Boil the peels in a pot of water for 15 seconds. Drain the peels in a colander, rinse and then drain again. Discard the water from the pot.
 3. Repeat this process one or two more times to reduce the bitter flavor.
 4. Add the 1 cup of fresh water and the sugar to the pot and bring it to a boil. Boil it for a couple of minutes until the sugar is dissolved. Add the citrus peels, reduce the heat to low and simmer for 45-60 minutes, stirring occasionally, until the peels become translucent and the syrup becomes lightly syrupy (on a candy thermometer this will be be approximately soft ball stage).
 5. Use a slotted spoon to remove a few of the peels at a time and let the excess syrup drip off for a few seconds. Place the hot, wet peels in a bowl of sugar or a ziplock bag with sugar in it and toss/shake to coat.
