@@ -14,6 +14,8 @@ images:
 featured_image: "/recipes/images/srp_2.webp"
 ---
 
+![Strawberry Rhubarb Pie](../images/srp_2.webp)
+
 ## Ingredients
 
 ### For the Filling
@@ -60,3 +62,8 @@ featured_image: "/recipes/images/srp_2.webp"
    minutes longer, until pastry has browned and filling begins to bubble. Let
    pie cool completely before serving, at least 3 hours and up to overnight to
    set the filling.
+
+![Strawberry Rhubarb Pie](../images/srp_1.webp)
+![Strawberry Rhubarb Pie](../images/srp_3.webp)
+![Strawberry Rhubarb Pie](../images/srp_4.webp)
+![Strawberry Rhubarb Pie](../images/srp_5.webp)
