@@ -25,8 +25,8 @@ tags: ["dinner", "lunch", "soup"]
 3. Pile the meat on top
 4. Add salt (1 Tb per 2 lbs meat)
 5. Cover with water + 1 inch
-6.Pressure cook for 35 minutes (Mama does 45 minutes for 5 lbs)
-7.At end of cooking time, let sit for 10 minutes, then vent
+6. Pressure cook for 35 minutes (Mama does 45 minutes for 5 lbs)
+7. At end of cooking time, let sit for 10 minutes, then vent
 
 ## For the veggies
 (Add salt as you go)
