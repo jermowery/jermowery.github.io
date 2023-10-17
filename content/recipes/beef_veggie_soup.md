@@ -35,3 +35,4 @@ tags: ["dinner", "lunch", "soup"]
 3. (Taste the water to see if it's under- or over-salted). Add the green beans. Once the water boils, cook for 8-10 minutes.
 4. If you weren't making this in the same pot with the meat, add the meat (or serve some from each pot, if the amount is too large to mix)
 
+Notes October 16, '23: Mama definitely cuts the vegetables larger to save time, the sweet potatoes totally dissolved (that did make the broth a little thicker though, probably, so honestly that was fine). When adding water for the meat, next time I might just try making sure it's all covered and then maybe adding a splash. I did accidentally only buy 1.7 lbs meat this time though, so that might have contributed
