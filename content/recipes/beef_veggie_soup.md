@@ -7,12 +7,31 @@ description: "Amazing soup"
 tags: ["dinner", "lunch", "soup"]
 ---
 
+(as interpreted by Laura, and then halved)
+
 ## Ingredients
+* 2.5 lb cubed stew meat or beef shank
+* ½ onion
+* 2 stalks/ribs celery (not 2 heads!)
+* 2 cloves garlic
+* 8 carrots (peeled, 2 in food processor, others in large chunks) (for original double recipe, 10-15 carrots)
+* ½ butternut squash, peeled and cut in cubes (can also use 1 lb pre-cut)
+* 1 large or 2 small sweet potatoes (pale yellow), peeled and cut in cubes
+* 1 lb green beans, cut into halves or thirds and with ends removed
 
-## Instructions
+## For the meat
+1. Food-process two of the carrots and all of the onion, the celery, and the garlic ("roughly even proportions of onion, carrots, and celery")
+2. Spread these out on the bottom of the instant pot
+3. Pile the meat on top
+4. Add salt (1 Tb per 2 lbs meat)
+5. Cover with water + 1 inch
+6.Pressure cook for 35 minutes (Mama does 45 minutes for 5 lbs)
+7.At end of cooking time, let sit for 10 minutes, then vent
 
-1. Cook meet (cubed stew meat, or beef shank) with grated (in food processor) carrots, celery, onions and garlic (to taste, ha-ha-ha). Add salt.
-2. Wait until the broth begins to boil again
-3. Cook for 10 minutes
-4. Add sweet potatoes and butternut squash and cook for another 15 minutes
-5. Add green beans and cook for another 8-10 minutes or until the softness desired
+## For the veggies
+(Add salt as you go)
+1. To a pot of boiling water, add the cut carrots. Once it boils again, cook for 10 minutes.
+2. Add the sweet potatoes and butternut squash. Once it comes back to a boil, cook for 15 minutes.
+3. (Taste the water to see if it's under- or over-salted). Add the green beans. Once the water boils, cook for 8-10 minutes.
+4. If you weren't making this in the same pot with the meat, add the meat (or serve some from each pot, if the amount is too large to mix)
+
