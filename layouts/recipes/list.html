@@ -13,7 +13,7 @@
                     </h2>
                     <div class="nested-links f5 lh-copy nested-copy-line-height">
                         <ul>
-                            {{ range where $weightedPages "Page.Section" $section }}
+                            {{ range sort (where $weightedPages "Page.Section" $section) "LinkTitle" }}
                             <li class="f3 near-black">
                                 <a href="{{ .RelPermalink }}" class="link black dim">{{ .LinkTitle }}</a>
                             </li>
