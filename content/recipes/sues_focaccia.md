@@ -1,5 +1,8 @@
 ---
 title: Sue's Focaccia
+images:
+  - "/recipes/images/sues_focaccia.webp"
+featured_image: "/recipes/images/sues_focaccia.webp"
 tags:
   - dinner
   - lunch
