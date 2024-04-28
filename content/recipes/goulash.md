@@ -11,40 +11,25 @@ tags: ["lunch", "dinner"]
 
 ## Ingredients
 
-### Broth
-
-- 2 lb Beef chuck
-- 1 ts Salt
-- 4 potatoes; Peeled and diced
+- 2 lb beef chuck (anything labeled stew meat works)
+- 1 tsp salt
+- 2lb potatoes, peeled and diced
+- 1lb carrots, peeled and chopped (non-traditional but delicious)
 - 2 Tbsp paprika
 - 2 Tbsp olive oil
-- 1/4 ts Black pepper
-- 2 Bay Leaves
-- 1 qt Water
-- 2 onions
-
-### Egg dumpling batter
-
-- 1 Egg
-- 6 tb Flour
-- 1/8 tsp Salt
+- 1/4 tsp black pepper
+- 2 bay leaves
+- 2 onions, diced
+- 2 bell peppers, diced
+- 1-2 diced tomato cans
 
 ## Instructions
 
-### Broth
-
-1. Cut beef into 1 inch squares, add 1/2 tsp. salt.
-2. Chop onions and brown in oil, add beef and paprika.
-3. Let beef simmer in its own juice along with salt and paprika for 1 hr. on low heat.
-4. Add water, diced potatoes and remaining salt.
-5. Cover and simmer until potatoes are done and meat is tender.
-
-### Egg dumpling batter
-
-1. Prepare egg dumpling batter: Add flour to unbeaten egg and salt. Mix well.
-2. Let stand for 1/2 hour for flour to mellow
-
-### Combine
-
-1.  Drop by dumpling batter by teaspoonful into Goulash.
-2.  Cover and simmer 5 minutes after dumplings rise to surface
+1. Chop onions and brown in oil
+1. Add chopped bell peppers and tomatoes to onions and saute until softened
+1. Add beef (chopped into 1 inch squares), ground paprika, and bay leaves. Let
+   beef simmer in its own juice for two hours on low heat (if it seems dry you
+   can add just enough water to almost cover all ingredients)
+1. Add diced potatoes and remaining salt. Stir, then add just enough water to
+   just barely cover everything. Cover and simmer until potatoes are done (40+
+   minutes) and meat is tender.
