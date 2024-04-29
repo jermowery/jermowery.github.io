@@ -7,6 +7,8 @@ description: "Delicious goulash"
 tags: ["lunch", "dinner"]
 ---
 
+{{< notice warning >}} This recipe will take 2+ hours. {{< /notice >}}
+
 [Original](https://www.bigoven.com/recipe/june-meyers-authentic-hungarian-goulash-gulyas-leves/102931)
 
 ## Ingredients
