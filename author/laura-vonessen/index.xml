@@ -1,7 +1,255 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laura Vonessen on mowery.dev</title><link>https://mowery.dev/author/laura-vonessen/</link><description>Recent content in Laura Vonessen on mowery.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 18 Sep 2023 07:23:47 -0700</lastBuildDate><atom:link href="https://mowery.dev/author/laura-vonessen/index.xml" rel="self" type="application/rss+xml"/><item><title>Hazelnut Macaroons (Nussmakronen)</title><link>https://mowery.dev/recipes/hazelnut_macaroons/</link><pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/hazelnut_macaroons/</guid><description>Original recipe (in German)
-Ingredients 3 egg whites (no yolks!) 150g sugar (3/4 cup) (optional) 2 Tbsp vanilla sugar 250g ground hazelnuts (coarser than flour, but still pretty fine) (optional) whole hazelnuts for decoration parchment paper and/or something to grease a baking sheet with Instructions Preheat the oven to 150°C/300°F (or see step 8) Beat the egg whites a little, then add 1 Tbsp of sugar and beat fully stiff One spoon at a time, add the rest of the sugar (including vanilla sugar), and continue to beat for ~4 more minutes until the consistency is thick Gently fold in the ground hazelnuts (optional) Let the dough sit in the fridge for 30-60 minutes to get stiffer With two teaspoons, make small heaps on a greased and/or parchment-paper-lined baking sheet.</description></item><item><title>Beans (Brazilian)</title><link>https://mowery.dev/recipes/beans/</link><pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/beans/</guid><description>Equipment Pressure cooker Immersion blender (optional but makes things easier) Notes on pressure cooking The listed time to pressure cook something only starts counting from the moment pressure is achieved With an Instant Pot use high pressure, and make sure you turn the release valve to sealing instead of venting Ingredients Beans 3 cups beans (1 lb), unsoaked 9 cups water (3x cups beans) Seasoning 1 medium onion, diced small 3 cloves garlic, crushed olive oil, to taste salt, to taste 3/4 lb tomatoes, diced small Instructions Wash the beans, removing any rocks or particularly disfigured beans Combine beans and water in pressure cooker and pressure cook for 50 minutes While the beans are cooking, start the seasoning: Saute the onions until translucent, then add the garlic and saute another minute Add the tomatoes and salt and continue sauteing until the mixture has the consistency of a sauce, then set it aside Once the beans have finished pressure cooking, let them sit for 15 minutes to naturally release some of the pressure, then use whatever quick release method is safe to let off remaining pressure In a bowl (a liquid measuring cup works well for this) combine the seasoning and a few ladles of beans/bean broth Mix with the immersion blender, or sort of smash things with a wooden spoon if you don&amp;rsquo;t have one, then pour back into the rest of the beans Taste and adjust salt if necessary Bonus Serve some of the bean broth in shot glasses while it&amp;rsquo;s still hot.</description></item><item><title>Banana Bread (Laura)</title><link>https://mowery.dev/recipes/banana_bread_laura/</link><pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/banana_bread_laura/</guid><description>Original
-Prework: Preheat oven to 325 Lightly grease 9x5 loaf pan
-In a large bowl mix: 2 cups flour 1 tsp baking soda ½ tsp baking powder ½ tsp salt 1 T cinnamon In a separate bowl mix: 1½ cup mashed overripe bananas (3-4) 1/3 cup sugar ¾ cup vegetable oil 2 eggs 1 T vanilla Optionally some other fruit (e.g. 1-2 apples) cut small Put it all together: Stir banana mixture into flour mixture; stir just to moisten.</description></item><item><title>Pasta primavera</title><link>https://mowery.dev/recipes/pasta_prima/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/pasta_prima/</guid><description>Notes This is my absolute favorite recipe and a staple of my diet. I&amp;rsquo;ve made it my own over the years; feel free to do the same! The original recipe called for peeling the tomatoes, and left everything to marinate for an hour before the garlic was removed. I&amp;rsquo;ve removed these steps, but the order of operations in this recipe is designed to allow for maximum marination. However, these are guidelines, not rules&amp;ndash;nothing will be ruined if your prep timing lines up differently than the recipe calls for.</description></item><item><title>Waffles</title><link>https://mowery.dev/recipes/waffles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/waffles/</guid><description>Laura&amp;rsquo;s waffle recipe, stolen from ancestors.
-The portions here are for 2 people to eat a large breakfast.
-If feeding more people double or triple the amounts below.
-Equipment Blender Waffle iron that makes hearts Ingredients Number of people eating: Waffle batter 1/2 stick butter 2 eggs 1 pinch salt 1/4 cup sugar 3/4 cup oats 3/4 cup flour 1 cup milk (to right consistency) Mandated toppings Mixed frozen berries compote (no cherries), made by microwaving in a bowl for 3-4 minutes Maple syrup Powdered sugar Instructions Using a high powered blender To make the batter combine all ingredients in a blender and blend until consistent Using a shitty blender or making a larger recipe Cut the butter into pieces, combine with eggs, sugar, and salt in the blender and blend until consistent Add 1/4 cup flour, 1/4 cup oats, and 1/3 cup milk at a time, blend until consistent each time Pictures</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laura Vonessen on mowery.dev</title><link>https://mowery.dev/author/laura-vonessen/</link><description>Recent content in Laura Vonessen on mowery.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 18 Sep 2023 07:23:47 -0700</lastBuildDate><atom:link href="https://mowery.dev/author/laura-vonessen/index.xml" rel="self" type="application/rss+xml"/><item><title>Hazelnut Macaroons (Nussmakronen)</title><link>https://mowery.dev/recipes/hazelnut_macaroons/</link><pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/hazelnut_macaroons/</guid><description>&lt;p>&lt;a href="../images/nussmakronen-recipe.webp">Original recipe (in German)&lt;/a>&lt;/p>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>3 egg whites (no yolks!)&lt;/li>
+&lt;li>150g sugar (3/4 cup)&lt;/li>
+&lt;li>(optional) 2 Tbsp vanilla sugar&lt;/li>
+&lt;li>250g ground hazelnuts (coarser than flour, but still pretty fine)&lt;/li>
+&lt;li>(optional) whole hazelnuts for decoration&lt;/li>
+&lt;li>parchment paper and/or something to grease a baking sheet with&lt;/li>
+&lt;/ul>
+&lt;h2 id="instructions">Instructions&lt;/h2>
+&lt;ol>
+&lt;li>Preheat the oven to 150°C/300°F (or see step 8)&lt;/li>
+&lt;li>Beat the egg whites a little, then add 1 Tbsp of sugar and beat fully stiff&lt;/li>
+&lt;li>One spoon at a time, add the rest of the sugar (including vanilla sugar), and continue to beat for ~4 more minutes until the consistency is thick&lt;/li>
+&lt;li>Gently fold in the ground hazelnuts&lt;/li>
+&lt;li>(optional) Let the dough sit in the fridge for 30-60 minutes to get stiffer&lt;/li>
+&lt;li>With two teaspoons, make small heaps on a greased and/or parchment-paper-lined baking sheet. These will spread out a bit when baking, so not too close together&lt;/li>
+&lt;li>(optional) Place one hazelnut on top of each cookie, in the middle&lt;/li>
+&lt;li>(optional) Let the cookies dry for ~25 minutes. If you didn&amp;rsquo;t actually preheat the oven in step 1, now is a good time.&lt;/li>
+&lt;li>Bake for 16-20 minutes&lt;/li>
+&lt;/ol>
+&lt;h2 id="substitutionoptional-notes">Substitution/optional notes&lt;/h2>
+&lt;ul>
+&lt;li>My mom only uses 1/2 cup of sugar&lt;/li>
+&lt;li>Technically the original recipe calls for &amp;ldquo;a packet&amp;rdquo; of vanilla sugar, which is some sort of standard measurement sold in Germany, but that doesn&amp;rsquo;t seem to exist in the US. My mom sticks a whole vanilla bean in a jar of sugar, which as time goes on will infuse the sugar with vanilla flavor, and says she thinks she uses about 2 Tbsp. I&amp;rsquo;m pretty sure I&amp;rsquo;ve also made this recipe with no vanilla sugar at all and it was still delicious&lt;/li>
+&lt;li>My mom does not let the batter sit, either before it&amp;rsquo;s scooped onto the baking sheet or after. She thinks this makes them spread out a little more? But they&amp;rsquo;re still delicious&lt;/li>
+&lt;li>The original recipe says 20-25 minutes, but my mom&amp;rsquo;s notes say 16-20, and my grandma&amp;rsquo;s notes say that after the first batch, the oven will be fully hot at which point it&amp;rsquo;ll be faster by 5-10 minutes, so maybe the 20-25 assumes the oven isn&amp;rsquo;t fully preheated?&lt;/li>
+&lt;li>We keep these cookies in a closed container for storage. Sometimes this causes them to clump together into a single solid mass, but you can still break delicious pieces off!&lt;/li>
+&lt;li>You can also use ground almonds instead of hazelnuts, or mix them half/half, but why would you???&lt;/li>
+&lt;/ul></description></item><item><title>Beans (Brazilian)</title><link>https://mowery.dev/recipes/beans/</link><pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/beans/</guid><description>&lt;h2 id="equipment">Equipment&lt;/h2>
+&lt;ul>
+&lt;li>Pressure cooker&lt;/li>
+&lt;li>Immersion blender (optional but makes things easier)&lt;/li>
+&lt;/ul>
+&lt;h2 id="notes-on-pressure-cooking">Notes on pressure cooking&lt;/h2>
+&lt;ul>
+&lt;li>The listed time to pressure cook something only starts counting from the moment pressure is achieved&lt;/li>
+&lt;li>With an Instant Pot use high pressure, and make sure you turn the release valve to sealing instead of venting&lt;/li>
+&lt;/ul>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;h3 id="beans">Beans&lt;/h3>
+&lt;ul>
+&lt;li>3 cups beans (1 lb), unsoaked&lt;/li>
+&lt;li>9 cups water (3x cups beans)&lt;/li>
+&lt;/ul>
+&lt;h3 id="seasoning">Seasoning&lt;/h3>
+&lt;ul>
+&lt;li>1 medium onion, diced small&lt;/li>
+&lt;li>3 cloves garlic, crushed&lt;/li>
+&lt;li>olive oil, to taste&lt;/li>
+&lt;li>salt, to taste&lt;/li>
+&lt;li>3/4 lb tomatoes, diced small&lt;/li>
+&lt;/ul>
+&lt;h2 id="instructions">Instructions&lt;/h2>
+&lt;ol>
+&lt;li>Wash the beans, removing any rocks or particularly disfigured beans&lt;/li>
+&lt;li>Combine beans and water in pressure cooker and pressure cook for 50 minutes&lt;/li>
+&lt;li>While the beans are cooking, start the seasoning:
+&lt;ol>
+&lt;li>Saute the onions until translucent, then add the garlic and saute another minute&lt;/li>
+&lt;li>Add the tomatoes and salt and continue sauteing until the mixture has the consistency of a sauce, then set it aside&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Once the beans have finished pressure cooking, let them sit for 15 minutes to naturally release some of the pressure, then use whatever quick release method is safe to let off remaining pressure&lt;/li>
+&lt;li>In a bowl (a liquid measuring cup works well for this) combine the seasoning and a few ladles of beans/bean broth&lt;/li>
+&lt;li>Mix with the immersion blender, or sort of smash things with a wooden spoon if you don&amp;rsquo;t have one, then pour back into the rest of the beans&lt;/li>
+&lt;li>Taste and adjust salt if necessary&lt;/li>
+&lt;/ol>
+&lt;h2 id="bonus">Bonus&lt;/h2>
+&lt;p>Serve some of the bean broth in shot glasses while it&amp;rsquo;s still hot. This is called caldinho, and it&amp;rsquo;s delicious! It will also use up some of the broth&amp;ndash;this recipe tends to be a bit watery the first day but will thicken up after.&lt;/p></description></item><item><title>Banana Bread (Laura)</title><link>https://mowery.dev/recipes/banana_bread_laura/</link><pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/banana_bread_laura/</guid><description>&lt;script type="application/ld+json">
+{
+ "@context": "https://schema.org/",
+ "@type": "Recipe",
+ "name": "Banana Bread Laura",
+ "image": [
+ "/recipes/images/banana_bread_laura.webp"
+ ],
+ "author": {
+ "@type": "Person",
+ "name": "Laura Vonessen"
+ },
+ "datePublished": "2020-07-18",
+ "description": "Originally stolen from Matt this recipe adds Laura's unique taste.",
+ "recipeCategory": "Dessert",
+ "recipeCuisine": "American",
+ "recipeIngredient": [
+ "* 2 cups flour",
+ "* 1 tsp baking soda",
+ "* ½ tsp baking powder",
+ "* ½ tsp salt",
+ "* 1 T cinnamon"
+ ],
+ "recipeInstructions": [
+ {
+ "@type": "HowToSection",
+ "name": "Prework",
+ "itemListElement": [
+ {
+ "@type": "HowToStep",
+ "text": "Preheat oven to 325"
+ },
+ {
+ "@type": "HowToStep",
+ "text": "Lightly grease 9x5 loaf pan"
+ }
+ ]
+ },
+ {
+ "@type": "HowToStep",
+ "name": "Mix dry ingredients",
+ "text": "In a large bowl, combine flour, sugar, baking powder, and salt.",
+ "url": "https://example.com/party-coffee-cake#step2",
+ "image": "https://example.com/photos/party-coffee-cake/step2.webp"
+ },
+ {
+ "@type": "HowToStep",
+ "name": "Add wet ingredients",
+ "text": "Mix in the butter, eggs, and milk.",
+ "url": "https://example.com/party-coffee-cake#step3",
+ "image": "https://example.com/photos/party-coffee-cake/step3.webp"
+ },
+ {
+ "@type": "HowToStep",
+ "name": "Spread into pan",
+ "text": "Spread into the prepared pan.",
+ "url": "https://example.com/party-coffee-cake#step4",
+ "image": "https://example.com/photos/party-coffee-cake/step4.webp"
+ },
+ {
+ "@type": "HowToStep",
+ "name": "Bake",
+ "text": "Bake for 30 to 35 minutes, or until firm.",
+ "url": "https://example.com/party-coffee-cake#step5",
+ "image": "https://example.com/photos/party-coffee-cake/step5.webp"
+ },
+ {
+ "@type": "HowToStep",
+ "name": "Enjoy",
+ "text": "Allow to cool and enjoy.",
+ "url": "https://example.com/party-coffee-cake#step6",
+ "image": "https://example.com/photos/party-coffee-cake/step6.webp"
+ }
+ ]
+}
+&lt;/script>
+&lt;link href="../banana_bread_laura.json" rel="alternate" type="application/ld+json" />
+&lt;p>&lt;a href="https://mowery.dev/recipes/banana_bread_matt/">Original&lt;/a>&lt;/p></description></item><item><title>Pasta primavera</title><link>https://mowery.dev/recipes/pasta_prima/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/pasta_prima/</guid><description>&lt;h2 id="notes">Notes&lt;/h2>
+&lt;ul>
+&lt;li>This is my absolute favorite recipe and a staple of my diet. I&amp;rsquo;ve made it my own over the years; feel free to do the same!&lt;/li>
+&lt;li>The original recipe called for peeling the tomatoes, and left everything to marinate for an hour before the garlic was removed. I&amp;rsquo;ve removed these steps, but the order of operations in this recipe is designed to allow for maximum marination. However, these are guidelines, not rules&amp;ndash;nothing will be ruined if your prep timing lines up differently than the recipe calls for.&lt;/li>
+&lt;li>One of the great things in this dish is the thermal contrast when you serve it fresh&amp;ndash;if possible, start with room-temperature tomatoes and fridge-temperature cheese.&lt;/li>
+&lt;li>If it is the heat of summer and you&amp;rsquo;d like to eat something that won&amp;rsquo;t cause you to overheat, the best way to lower the temperature of the final dish is to use fridge-temperature tomatoes.&lt;/li>
+&lt;/ul>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>Tomatoes, medium dice (6 beefsteak tomatoes, or more if they&amp;rsquo;re smaller)&lt;/li>
+&lt;li>Fresh basil, 3-4 stalks&lt;/li>
+&lt;li>Fresh mozzarella, 16 oz&lt;/li>
+&lt;li>4 cloves garlic (NOT crushed)&lt;/li>
+&lt;li>Olive oil&lt;/li>
+&lt;li>Salt, to taste&lt;/li>
+&lt;li>Penne pasta, 1 pack&lt;/li>
+&lt;/ul>
+&lt;h2 id="instructions">Instructions&lt;/h2>
+&lt;ol>
+&lt;li>Set the pasta water to boil (I usually add the salt when the water boils, but you do you)&lt;/li>
+&lt;li>Cut the cloves of garlic into a few pieces each. You will need to be able to find these later, so don&amp;rsquo;t make the pieces too small, and count the pieces so that you&amp;rsquo;ll know when you&amp;rsquo;re done.&lt;/li>
+&lt;li>Add the garlic and olive oil to a large bowl.&lt;/li>
+&lt;li>Dice the tomatoes and add them to the bowl.&lt;/li>
+&lt;li>Add salt and stir. Taste test individual tomato pieces as you do&amp;ndash;you want them to be pretty salty because the other ingredients don&amp;rsquo;t have much salt. Also because salt is delicious.&lt;/li>
+&lt;li>Check on the pasta water and salt it/add the pasta if it&amp;rsquo;s boiling. If not, keep an eye on the pot and do it sometime in the next couple steps.&lt;/li>
+&lt;li>Wash and shake dry the basil, then separate the stems from the leaves. If leaves are large, tear them into a few pieces. Add the basil leaves to the tomatoes.&lt;/li>
+&lt;li>Dice the mozzarella, but DON&amp;rsquo;T add it to the tomatoes yet.&lt;/li>
+&lt;li>At this point, you&amp;rsquo;re waiting for the pasta to cook. Set a timer to ring 2-3 minutes before the pasta will be ready. If the pasta&amp;rsquo;s already almost ready, just go directly to step 10.&lt;/li>
+&lt;li>When the pre-pasta timer rings, search for the garlic in the tomato mixture and remove all the pieces (this is why you counted them earlier)&lt;/li>
+&lt;li>Mix in the mozzarella pieces.&lt;/li>
+&lt;li>Once the pasta is ready, drain it and pour it over the tomato/mozzarella mixture.&lt;/li>
+&lt;li>Serve immediately. If there&amp;rsquo;s a few minutes of other prepwork left to do before you can eat (e.g. washing up or garlic bread), I usually don&amp;rsquo;t mix the pasta until we&amp;rsquo;re ready to sit down.&lt;/li>
+&lt;/ol></description></item><item><title>Waffles</title><link>https://mowery.dev/recipes/waffles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/waffles/</guid><description>&lt;p>Laura&amp;rsquo;s waffle recipe, stolen from ancestors.&lt;/p>
+&lt;p>The portions here are for 2 people to eat a large breakfast.&lt;/p>
+&lt;p>If feeding more people double or triple the amounts below.&lt;/p>
+&lt;h2 id="equipment">Equipment&lt;/h2>
+&lt;ul>
+&lt;li>Blender&lt;/li>
+&lt;li>Waffle iron that makes hearts&lt;/li>
+&lt;/ul>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;script defer>
+ function onMathJsLoad() {
+ const servingFactorElement = document.getElementById("servingFactor");
+ if (!servingFactorElement) {
+ return;
+ }
+ math.config({
+ number: 'Fraction',
+ });
+ const intendedServingFactor = servingFactorElement.valueAsNumber;
+ const elementsAndOriginalValues =
+ Array.from(document.querySelectorAll("span.unit"))
+ .map(unitElement => {
+ return {
+ unitElement,
+ quantity: math.fraction(unitElement.textContent),
+ }
+ })
+
+ servingFactorElement.addEventListener("change", () => {
+ const newServingFactor = servingFactorElement.valueAsNumber;
+ const servingFactor = math.fraction(newServingFactor, intendedServingFactor);
+ const unitElements = document.querySelectorAll("span.unit");
+ for (const { unitElement, quantity } of elementsAndOriginalValues) {
+ const scaledUnit = math.multiply(quantity, servingFactor);
+ let formattedScaledUnit = math.format(scaledUnit).replace(/^(.*)\/1$/, "$1");
+ unitElement.textContent = formattedScaledUnit;
+ }
+ });
+ }
+&lt;/script>
+&lt;script defer onload="onMathJsLoad()" src="https://unpkg.com/mathjs@11.5.0/lib/browser/math.js">&lt;/script>
+
+&lt;label for="servingFactor">
+ Number of people eating: 
+&lt;/label>
+&lt;input type="number" value='2'
+ id="servingFactor" name="servingFactor" min="1">
+&lt;h3 id="waffle-batter">Waffle batter&lt;/h3>
+&lt;ul>
+&lt;li>&lt;span class="unit">1/2&lt;/span> stick butter&lt;/li>
+&lt;li>&lt;span class="unit">2&lt;/span> eggs&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> pinch salt&lt;/li>
+&lt;li>&lt;span class="unit">1/4&lt;/span> cup sugar&lt;/li>
+&lt;li>&lt;span class="unit">3/4&lt;/span> cup oats&lt;/li>
+&lt;li>&lt;span class="unit">3/4&lt;/span> cup flour&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> cup milk (to right consistency)&lt;/li>
+&lt;/ul>
+&lt;h3 id="mandated-toppings">Mandated toppings&lt;/h3>
+&lt;ul>
+&lt;li>Mixed frozen berries compote (no cherries), made by microwaving in a bowl for 3-4 minutes&lt;/li>
+&lt;li>Maple syrup&lt;/li>
+&lt;li>Powdered sugar&lt;/li>
+&lt;/ul>
+&lt;h2 id="instructions">Instructions&lt;/h2>
+&lt;h3 id="using-a-high-powered-blender">Using a high powered blender&lt;/h3>
+&lt;ol>
+&lt;li>To make the batter combine all ingredients in a blender and blend until consistent&lt;/li>
+&lt;/ol>
+&lt;h3 id="using-a-shitty-blender-or-making-a-larger-recipe">Using a shitty blender or making a larger recipe&lt;/h3>
+&lt;ol>
+&lt;li>Cut the butter into pieces, combine with eggs, sugar, and salt in the blender and blend until consistent&lt;/li>
+&lt;li>Add 1/4 cup flour, 1/4 cup oats, and 1/3 cup milk at a time, blend until consistent each time&lt;/li>
+&lt;/ol>
+&lt;h2 id="pictures">Pictures&lt;/h2>
+&lt;p>&lt;img src="../images/waffles_1.webp" alt="Waffles">
+&lt;img src="../images/waffles_2.webp" alt="Waffles">&lt;/p></description></item></channel></rss>

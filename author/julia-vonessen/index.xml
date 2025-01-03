@@ -1,1 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julia Vonessen on mowery.dev</title><link>https://mowery.dev/author/julia-vonessen/</link><description>Recent content in Julia Vonessen on mowery.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 02 Jan 2023 17:48:41 -0700</lastBuildDate><atom:link href="https://mowery.dev/author/julia-vonessen/index.xml" rel="self" type="application/rss+xml"/><item><title>Brigadeiros</title><link>https://mowery.dev/recipes/brigadeiros/</link><pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/brigadeiros/</guid><description>Ingredients 3 Tbsp cocoa powder 1 Tbsp butter 14 oz sweetened condensed milk Chocolate sprinkles or crystal sugar Instructions In a medium saucepan over medium heat, combine cocoa, butter and condensed milk Cook, stirring the entire time, until thickened enough to show the pan bottom during stirring, about 10 minutes. When the pan is tipped, the mixture should appear to be loose from the pan Remove from heat and pour into a lightly greased dish Let rest until cool enough to handle, about two minutes Form into small balls (with greased hands) and roll over sprinkles or crystal sugar Place the balls in small candy cups and eat at once or chill until serving</description></item><item><title>Cheesecake (Julia)</title><link>https://mowery.dev/recipes/cheesecake/</link><pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/cheesecake/</guid><description>Ingredients Number of recipes: Crust 2 cups finely ground graham crackers (about 30 squares) 1/2 teaspoon ground cinnamon 1 stick unsalted butter, melted Filling 1 pound cream cheese, softened 3 eggs 1 cup sugar 1 pint sour cream 1 lemon, zested 1 dash vanilla extract Warm Lemon Blueberries 1 pint blueberries 1 lemon, zested and juiced 2 tablespoons sugar Instructions Preheat the oven to 325 degrees F Crust In a mixing bowl, combine the ingredients with a fork until evenly moistened.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julia Vonessen on mowery.dev</title><link>https://mowery.dev/author/julia-vonessen/</link><description>Recent content in Julia Vonessen on mowery.dev</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 02 Jan 2023 17:48:41 -0700</lastBuildDate><atom:link href="https://mowery.dev/author/julia-vonessen/index.xml" rel="self" type="application/rss+xml"/><item><title>Brigadeiros</title><link>https://mowery.dev/recipes/brigadeiros/</link><pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/brigadeiros/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>3 Tbsp cocoa powder&lt;/li>
+&lt;li>1 Tbsp butter&lt;/li>
+&lt;li>14 oz sweetened condensed milk&lt;/li>
+&lt;li>Chocolate sprinkles or crystal sugar&lt;/li>
+&lt;/ul>
+&lt;h2 id="instructions">Instructions&lt;/h2>
+&lt;ol>
+&lt;li>In a medium saucepan over medium heat, combine cocoa, butter and condensed milk&lt;/li>
+&lt;li>Cook, stirring the entire time, until thickened enough to show the pan bottom during stirring, about 10 minutes. When the pan is tipped, the mixture should appear to be loose from the pan&lt;/li>
+&lt;li>Remove from heat and pour into a lightly greased dish&lt;/li>
+&lt;li>Let rest until cool enough to handle, about two minutes&lt;/li>
+&lt;li>Form into small balls (with greased hands) and roll over sprinkles or crystal sugar&lt;/li>
+&lt;li>Place the balls in small candy cups and eat at once or chill until serving&lt;/li>
+&lt;/ol></description></item><item><title>Cheesecake (Julia)</title><link>https://mowery.dev/recipes/cheesecake/</link><pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate><guid>https://mowery.dev/recipes/cheesecake/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;script defer>
+ function onMathJsLoad() {
+ const servingFactorElement = document.getElementById("servingFactor");
+ if (!servingFactorElement) {
+ return;
+ }
+ math.config({
+ number: 'Fraction',
+ });
+ const intendedServingFactor = servingFactorElement.valueAsNumber;
+ const elementsAndOriginalValues =
+ Array.from(document.querySelectorAll("span.unit"))
+ .map(unitElement => {
+ return {
+ unitElement,
+ quantity: math.fraction(unitElement.textContent),
+ }
+ })
+
+ servingFactorElement.addEventListener("change", () => {
+ const newServingFactor = servingFactorElement.valueAsNumber;
+ const servingFactor = math.fraction(newServingFactor, intendedServingFactor);
+ const unitElements = document.querySelectorAll("span.unit");
+ for (const { unitElement, quantity } of elementsAndOriginalValues) {
+ const scaledUnit = math.multiply(quantity, servingFactor);
+ let formattedScaledUnit = math.format(scaledUnit).replace(/^(.*)\/1$/, "$1");
+ unitElement.textContent = formattedScaledUnit;
+ }
+ });
+ }
+&lt;/script>
+&lt;script defer onload="onMathJsLoad()" src="https://unpkg.com/mathjs@11.5.0/lib/browser/math.js">&lt;/script>
+
+&lt;label for="servingFactor">
+ Number of recipes: 
+&lt;/label>
+&lt;input type="number" value='1'
+ id="servingFactor" name="servingFactor" min="1">
+&lt;h3 id="crust">Crust&lt;/h3>
+&lt;ul>
+&lt;li>&lt;span class="unit">2&lt;/span> cups finely ground graham crackers (about 30 squares)&lt;/li>
+&lt;li>&lt;span class="unit">1/2&lt;/span> teaspoon ground cinnamon&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> stick unsalted butter, melted&lt;/li>
+&lt;/ul>
+&lt;h3 id="filling">Filling&lt;/h3>
+&lt;ul>
+&lt;li>&lt;span class="unit">1&lt;/span> pound cream cheese, softened&lt;/li>
+&lt;li>&lt;span class="unit">3&lt;/span> eggs&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> cup sugar&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> pint sour cream&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> lemon, zested&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> dash vanilla extract&lt;/li>
+&lt;/ul>
+&lt;h3 id="warm-lemon-blueberries">Warm Lemon Blueberries&lt;/h3>
+&lt;ul>
+&lt;li>&lt;span class="unit">1&lt;/span> pint blueberries&lt;/li>
+&lt;li>&lt;span class="unit">1&lt;/span> lemon, zested and juiced&lt;/li>
+&lt;li>&lt;span class="unit">2&lt;/span> tablespoons sugar&lt;/li>
+&lt;/ul>
+&lt;h2 id="instructions">Instructions&lt;/h2>
+&lt;ol>
+&lt;li>Preheat the oven to 325 degrees F&lt;/li>
+&lt;/ol>
+&lt;h3 id="crust-1">Crust&lt;/h3>
+&lt;ol>
+&lt;li>In a mixing bowl, combine the ingredients with a fork until evenly moistened. Lightly coat the bottom and sides of an 8-inch spring-form pan with non-stick cooking spray&lt;/li>
+&lt;li>Pour the crumbs into the pan and, using the bottom of a measuring cup or the smooth bottom of a glass, press the crumbs down into the base and 1-inch up the sides. Refrigerate for 5 minutes&lt;/li>
+&lt;/ol>
+&lt;h3 id="filling-1">Filling&lt;/h3>
+&lt;ol>
+&lt;li>In the bowl of an electric mixer, beat the cream cheese on low speed for 1 minute until smooth and free of any lumps. Add the eggs, 1 at a time, and continue to beat slowly until combined. Gradually add sugar and beat until creamy, for 1 to 2 minutes&lt;/li>
+&lt;li>Add sour cream, lemon zest, and vanilla. Periodically scrape down the sides of the bowl and the beaters. The batter should be well-mixed but not over-beaten. Pour the filling into the crust-lined pan and smooth the top with a spatula&lt;/li>
+&lt;li>Set the cheesecake pan on a large piece of aluminum foil and fold up the sides around it. Place the cake pan in a large roasting pan. Pour boiling water into the roasting pan until the water is about halfway up the sides of the cheesecake pan; the foil will keep the water from seeping into the cheesecake. Bake for 45 minutes. The cheesecake should still jiggle (it will firm up after chilling), so be careful not to overcook. Let cool in pan for 30 minutes. Chill in the refrigerator, loosely covered, for at least 4 hours, preferably overnight. Loosen the cheesecake from the sides of the pan by running a thin metal spatula around the inside rim.Unmold and transfer to a cake plate. Using a spatula spread a layer of Warm Lemon Blueberry topping over the surface&lt;/li>
+&lt;li>Slice the cheesecake with a thin, non-serrated knife that has been dipped in hot water. Wipe dry after each cut&lt;/li>
+&lt;/ol>
+&lt;h3 id="warm-lemon-blueberries-1">Warm Lemon Blueberries&lt;/h3>
+&lt;ol>
+&lt;li>In a small saucepan add all the ingredients and simmer over medium heat for 5 minutes or so until the fruit begins to break down slightly. Leave to cool before spreading on cheesecake&lt;/li>
+&lt;/ol></description></item></channel></rss>
