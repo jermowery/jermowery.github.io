@@ -5,9 +5,11 @@ theme = ['hugo-notice', 'ananke']
 enableEmoji = true
 enableGitInfo = true
 googleAnalytics = 'G-TYW7RZVTRH'
-Paginate = 1000
 defaultContentLanguage = 'en'
 enableRobotsTXT = true
+
+[pagination]
+    pagerSize = 1000
 
 [params]
     show_reading_time = true
