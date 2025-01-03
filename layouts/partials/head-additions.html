@@ -4,6 +4,15 @@
   name="apple-mobile-web-app-status-bar-style"
   content="black-translucent"
 />
+{{ with .Params.author | default .Site.Params.author }}
+      <meta name="article:author" content = "
+        {{- if reflect.IsSlice . -}}
+          {{ delimit . ", " | plainify }}
+        {{- else -}}
+          {{ . | plainify }}
+        {{- end -}}
+      ">
+{{ end }}
 <link rel="manifest" href="/manifest.webmanifest" />
 <link rel="apple-touch-icon" href="/maskable_icon_192.png" />
 <script type="module" defer>
