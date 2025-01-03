@@ -13,8 +13,12 @@ images: ["/recipes/images/ringpan.png"]
 
 ## Equipment
 
-- A (preferibly shallow) tube cake pan.
 - Blender
+- A (preferibly shallow) tube cake pan.
+
+# Images
+
+![Ring Pan](../images/ringpan.png)
 
 ## Ingredients
 
@@ -42,3 +46,4 @@ images: ["/recipes/images/ringpan.png"]
    flan is not attached to the form anymore.
 8. Use the serving glass bowl as a lid of the pan, turn it upside down to get
    rid of the pan.
+
