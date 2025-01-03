@@ -10,6 +10,7 @@
 ## Notes
 
 - This recipe requires a Bechamel Sauce
+- We usually add a whole cup of grated parmesan to the bechamel sauce at the end
 
 ## Ingredients
 
@@ -18,9 +19,10 @@
 - 60 g (2 oz, 4 tbsp) butter
 - 60 g (2 oz, 1/4 cup) flour
 - 500 ml (16 fl oz) milk
-- Salt and Black Petter
+- salt
+- black pepper (optional)
 - 1/4 tsp grated nutmeg
-- 40 g (1 1/2 oz, 1/2 cup) freshly grated parmesan cheese
+- 40-80 g (1 1/2 - 4 oz, 1/2 to 1 cup) freshly grated parmesan cheese
 
 ## Instructions
 
