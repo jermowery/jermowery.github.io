@@ -10,7 +10,7 @@
 
 ## Notes
 
-- This recipe uses raw egg whites (mixed with hot chocolate, granted)
+- This recipe uses raw egg whites
 
 ## Ingredients
 
@@ -18,12 +18,11 @@
 - 720 g ( lb) blanched, grated almonds
 - 630 g ( cups) sugar
 - 6 to 7 egg whites
-- 40-80 g (1 1/2 - 4 oz, 1/2 to 1 cup) freshly grated parmesan cheese
 
 ## Instructions
 
 1. Blanch and grate the almonds
 2. Whisk the egg whites til foamy, mix it with the sugar
-3. Melt the chocolate
-4. Knead it to a hard ball, pressed in one of the sides.
+3. Grate the chocolate
+4. Knead it, roll into balls (the size of a walnut), pressed in one of the sides.
 5. Coat it with sugar (optional)
