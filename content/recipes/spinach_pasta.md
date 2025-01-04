@@ -1,5 +1,6 @@
 ---
     title: Spinach Pasta
+    date: 2025-01-03
     description: A Julia favorite
     author: Diane Seed (The top one hundred pasta dishes)
     tags:
