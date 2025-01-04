@@ -14,9 +14,9 @@
 
 ## Ingredients
 
-- 720 g ( lb) milk chocolate
-- 720 g ( lb) blanched, grated almonds
-- 630 g ( cups) sugar
+- 720 g (1.5 lb) milk chocolate
+- 720 g (1.5 lb) blanched, grated almonds
+- 630 g (3 1/8 cups) sugar
 - 6 to 7 egg whites
 
 ## Instructions
